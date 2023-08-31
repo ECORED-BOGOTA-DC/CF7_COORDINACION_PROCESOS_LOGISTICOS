@@ -15,14 +15,14 @@
         .cajon.color-acento-contenido.p-4(style="background-color:#DDF8F7;" data-aos="flip-up")
           p.mb-0 Los sistemas de información logística proporcionan información sobre todo el flujo de las mercancías. Hacen seguimiento en tiempo real del trayecto, de su proceso y estado, preparando a las áreas de compras, producción, almacenamiento, financieros y de contabilidad, sobre el ingreso de los mismos.
           p.mt-4.mb-0 Los fabricantes y comerciantes monitorean los productos y artículos para saber si llegarán a tiempo y en condiciones adecuadas a sus destinos y poder intervenir si sucede algún incidente.
-        p.mt-4(data-aos="zoom-in") Un rasgo distintivo es que las medidas de protección se aplican principalmente a los grupos de materias primas y productos semiacabados; sin embargo, al desempeñar un papel clave en el aumento de la inversión en la economía nacional, las máquinas y los equipos no están sujetos a investigaciones de protección.
+        p.mt-4(data-aos="zoom-in") Los transportadores se enfocan en el progreso y el estado del medio de transporte y del equipo de transporte que contienen. En caso de un incidente o retraso, los transportadores dan aviso a sus clientes, pero el efecto que esto tendrá en la entrega o la reposición de existencias solo lo pueden comprender los comerciantes y los fabricantes.
     
     Separador.mt-5
 
     .titulo-segundo
       h2#t_4_1 4.1 Gestión del transporte
     
-    p(data-aos="zoom-in") Este proceso permite tomar decisiones clave en el área logística. Adicionalmente, asegura de forma eficaz los flujos de mercancía hacia y desde los almacenes. Además de realizar estratégicamente una selección adecuada de los recursos de transporte a utilizar, la planeación de la programación de los movimientos y la identificación de los costos los costos logísticos. 
+    p(data-aos="zoom-in") Este proceso permite tomar decisiones clave en el área logística. Adicionalmente, asegura de forma eficaz los flujos de mercancía hacia y desde los almacenes. Además de realizar estratégicamente una selección adecuada de los recursos de transporte a utilizar, la planeación de la programación de los movimientos y la identificación de los costos logísticos. 
 
     .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
       h4.mb-0.ps-3 Ventajas de la gestión del transporte
@@ -70,7 +70,7 @@
       h4.mb-0.ps-3 #[em Tracking]
     
     p.mt-4(data-aos="zoom-in") Su significado es seguimiento. El #[em tracking] permite identificar los cuellos de botella y las oportunidades de mejora para tomar decisiones y diseñar nuevas estrategias, además de ser una herramienta de soporte indispensable para trabajar su nivel de competitividad.
-    p.mt-4(data-aos="zoom-in") Este sistema permite hacer un seguimiento en línea, verificando el estado real de sus pedidos, actualizando en cada momento en el que el pedido haya variado su estado en el proceso logístico. La información del tracking está disponible gracias a los sistemas de seguimiento y control. 
+    p.mt-4(data-aos="zoom-in") Este sistema permite hacer un seguimiento en línea, verificando el estado real de sus pedidos, actualizando en cada momento en el que el pedido haya variado su estado en el proceso logístico. La información del #[em tracking] está disponible gracias a los sistemas de seguimiento y control. 
 
     ul.lista-ul.mt-5
       li.h5(data-aos="zoom-in" style="color:#1A0F91;")
@@ -81,38 +81,38 @@
     p.mt-4(data-aos="zoom-in") Para llevar a cabo un rastreo inteligente de productos se destacan:
 
     .row.mt-5
-      .col-xl-3.col-lg-6.mb-4.mb-xl-0
+      .col-xl-6.col-lg-6.mb-4
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
               img(src='@/assets/curso/tema4/3.png')
           .crd_hover_txt--body(style="background-color:#445476;padding-top:13px;")
-            h5.mb-3.text-white.text-center RFID (Radio Frequency Identification) 
-            p.mt-3.text-white.mb-0.text-small O identificación por radiofrecuencia, es un sistema que permite identificar, almacenar y transmitir datos a través de dispositivos inteligentes denominados etiquetas, tarjetas o transpondedores RFID. Gracias a estos dispositivos, con el sistema RFID se puede conocer en remoto la información de un producto mediante ondas de radio.  
-      .col-xl-3.col-lg-6.mb-4.mb-xl-0
+            h5.mb-3.text-white.text-center RFID (#[em.text-white Radio Frequency Identification]) 
+            p.mt-4.text-white.mb-0 O identificación por radiofrecuencia, es un sistema que permite identificar, almacenar y transmitir datos a través de dispositivos inteligentes denominados etiquetas, tarjetas o transpondedores RFID. Gracias a estos dispositivos, con el sistema RFID se puede conocer en remoto la información de un producto mediante ondas de radio.  
+      .col-xl-6.col-lg-6.mb-4
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
               img(src='@/assets/curso/tema4/4.png')
           .crd_hover_txt--body(style="background-color:#1A0F91;")
             h5.mb-3.text-white.text-center Internet de las cosas
-            p.mt-3.text-white.mb-0.text-small Es una tecnología que conecta los dispositivos físicos a una red de internet, para que sean gestionados o monitoreados por otros dispositivos, sin la necesidad de intervención humana. Con este sistema, la empresa puede hacer un rastreo inteligente sobre la ubicación exacta de cada producto, acceder de forma automatizada a datos históricos de rutas recorridas, las condiciones de los vehículos, el estado de las mercancías, etc. 
-      .col-xl-3.col-lg-6.mb-4.mb-xl-0
+            p.mt-3.text-white.mb-0 Es una tecnología que conecta los dispositivos físicos a una red de internet, para que sean gestionados o monitoreados por otros dispositivos, sin la necesidad de intervención humana. Con este sistema, la empresa puede hacer un rastreo inteligente sobre la ubicación exacta de cada producto, acceder de forma automatizada a datos históricos de rutas recorridas, las condiciones de los vehículos, el estado de las mercancías, etc. 
+      .col-xl-6.col-lg-6.mb-4
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
               img(src='@/assets/curso/tema4/5.png')
           .crd_hover_txt--body(style="background-color:#445476;")
-            h5.mb-3.text-white.text-center Blockchain
-            p.mt-3.text-white.mb-0.text-small Es una tecnología que conecta los dispositivos físicos a una red de internet, para que sean gestionados o monitoreados por otros dispositivos, sin la necesidad de intervención humana. Con este sistema la empresa puede hacer un rastreo inteligente sobre la ubicación exacta de cada producto, acceder de forma automatizada a datos históricos de rutas recorridas, las condiciones de los vehículos, el estado de las mercancías, etc. 
-      .col-xl-3.col-lg-6.mb-4.mb-xl-0
+            h5.mb-3.text-white.text-center #[em.text-white Blockchain]
+            p.mt-3.text-white.mb-0 Es una tecnología que conecta los dispositivos físicos a una red de internet, para que sean gestionados o monitoreados por otros dispositivos, sin la necesidad de intervención humana. Con este sistema la empresa puede hacer un rastreo inteligente sobre la ubicación exacta de cada producto, acceder de forma automatizada a datos históricos de rutas recorridas, las condiciones de los vehículos, el estado de las mercancías, etc. 
+      .col-xl-6.col-lg-6.mb-4
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
               img(src='@/assets/curso/tema4/6.png')
           .crd_hover_txt--body(style="background-color:#1A0F91;")
             h5.mb-3.text-white.text-center GPS
-            p.mt-3.text-white.mb-0.text-small Sistema de posicionamiento global que permite conocer la ubicación del vehículo en todo momento, monitorizar su rendimiento logístico, supervisar el estado del transporte de las mercancías e, incluso, mantener informados a los clientes sobre la ubicación de sus pedidos en tiempo real.
+            p.mt-3.text-white.mb-0 Sistema de posicionamiento global que permite conocer la ubicación del vehículo en todo momento, monitorizar su rendimiento logístico, supervisar el estado del transporte de las mercancías e, incluso, mantener informados a los clientes sobre la ubicación de sus pedidos en tiempo real.
     
     Separador.mt-5
 
@@ -156,7 +156,7 @@
     
       .titulo-sexto.color-acento-contenido.mt-5
         h5 Figura 2.
-        span Ventajas de la gestión del transporte 
+        span Proceso de trazabilidad en el flujo de mercancias
       figure.mt-4
         img(src="@/assets/curso/tema4/8.svg" data-aos="zoom-in-up")
     
@@ -212,7 +212,7 @@
     .titulo-segundo
       h2#t_4_5 4.5  Indicadores de gestión
     
-    p(data-aos="zoom-in") La distribución de las mercancías es de vital importancia en el éxito logístico de una organización, para esto se debe tener control de costos y productividad relacionados con la cadena suministro de la empresa, en particular la gestión del transporte la cual es la actividad que más consume recursos y esfuerzos.
+    p(data-aos="zoom-in") La distribución de las mercancías es de vital importancia en el éxito logístico de una organización, para esto se debe tener control de costos y productividad relacionados con la cadena suministro de la empresa, en particular la gestión del transporte, la cual es la actividad que más consume recursos y esfuerzos.
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 6.
@@ -228,7 +228,7 @@
         tbody
           tr
             td.text-center.p-4 Costo de transporte sobre las ventas.
-            td.text-center.p-4  Costo de transporte / Valor Ventas totales * 100.
+            td.text-center.p-4  Costo de transporte / Valor ventas totales * 100.
             td.text-center.p-4 Controlar el rubro respecto a las ventas generadas en un periodo determinado.
           tr
             td.text-center.p-4 Costo operativo por conductor.
@@ -247,24 +247,12 @@
             td.text-center.p-4  Capacidad real utilizada/Capacidad total en kg o m#[sup 3].
             td.text-center.p-4 Determina la capacidad de transporte ocupada en relación con su capacidad total en volumen (m#[sup 3]) o peso (kg).
           tr
-            td.text-center.p-4 Nivel de cumplimento en despacho.
+            td.text-center.p-4 Nivel de cumplimiento en despacho.
             td.text-center.p-4  Número de despachos cumplidos a tiempo/ #[br] Número total de despachos requeridos.
             td.text-center.p-4 Controlar la eficacia de los despachos efectuados por el centro de distribución.
     
-    p.mt-3.text-small #[strong Nota.] Adaptada de Mora (2008)
+    p.mt-3.text-small #[strong Nota.] Adaptada de Mora (2008).
 
-    .col-xl-10.m-auto.mt-5
-      .row.m-0.p-4(style="background: linear-gradient(280deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);border-radius:10px;" data-aos="flip-up")
-        .col-lg-1.col-md-3.mb-4.mb-md-0(style="place-self:center;")
-          figure.text-center
-            img(src="@/assets/curso/tema4/9.svg" data-aos="zoom-in-right" style="display:inline;max-width:80px;")
-        .col-lg-9.col-md-6.mb-4.mb-md-0
-          h4.text-white(data-aos="zoom-in") Trazabilidad en los procesos logísticos
-          p.text-small.text-white(data-aos="zoom-in") Video: Trazabilidad en los procesos logísticos (Ecored, 2021).
-        .col-lg-2.col-md-3.text-center(style="place-self:center;")
-          a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PUOOkuzzSnM " target="_blank" style="box-shadow:0px 0px 4px 1px rgba(0,0,0,.4);")
-            span Ir al enlace
-            i.fas.fa-link
 
 
     

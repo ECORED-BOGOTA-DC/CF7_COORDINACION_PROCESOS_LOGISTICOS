@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p(data-aos="zoom-in") Coordinar el flujo de mercancías es una de las tareas de más peso en el proceso logístico de una empresa como lo puede revisar a continuación:  
+    p(data-aos="zoom-in") Coordinar el flujo de mercancías es una de las tareas de más peso en el proceso logístico de una empresa, como lo puede revisar a continuación:  
 
     figure.mt-5
       .video

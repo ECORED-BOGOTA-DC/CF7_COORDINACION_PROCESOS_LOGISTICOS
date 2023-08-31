@@ -7,7 +7,7 @@
         span 2
       h1 Requerimientos de la distribución de mercancías
     
-    p(data-aos="zoom-in") La distribución de mercancías es uno de los elementos propios del proceso logístico en su conjunto, mas no es, en sí mismo, toda la actividad logística. Este se encamina a planificar y controlar todo el movimiento de mercancías físicas (materias primas, producto semielaborado, producto terminado) desde el lugar de fabricación hasta el sitio establecido para la entrega. A grandes rasgos, se pueden distinguir dos tipos de distribución de mercancías o de transporte, a saber:
+    p(data-aos="zoom-in") La distribución de mercancías es uno de los elementos propios del proceso logístico en su conjunto, más no es, en sí mismo, toda la actividad logística. Este se encamina a planificar y controlar todo el movimiento de mercancías físicas (materias primas, producto semielaborado, producto terminado) desde el lugar de fabricación hasta el sitio establecido para la entrega. A grandes rasgos, se pueden distinguir dos tipos de distribución de mercancías o de transporte, a saber:
     
     .col-lg-10.col-xl-6.m-auto.mt-5
       figure
@@ -56,7 +56,7 @@
     .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
       h4.mb-0.ps-3 Modelos de distribución
     
-    p.mt-4(data-aos="zoom-in")  Los modelos de distribución son los fundamentos que adopta la organización para que sus productos lleguen a los diferentes mercados establecidos, estos modelos son variados según las necesidades de las empresas y están en función de su uso como lo puede ver a continuación:
+    p.mt-4(data-aos="zoom-in")  Los modelos de distribución son los fundamentos que adopta la organización para que sus productos lleguen a los diferentes mercados establecidos, estos modelos son variados según las necesidades de las empresas y están en función de su uso, como lo puede ver a continuación:
 
     .row.m-0.mt-5(data-aos="zoom-in-up")
       .col-lg-6.mb-4.mb-lg-0.p-md-0
@@ -84,8 +84,8 @@
             img(src="@/assets/curso/tema2/5.svg" style="display:inline;")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#EFF4FF;")
-          h3 Distribución cross-docking
-          p.mt-4.mb-0 En este proceso se reemplazan los almacenes por las plataformas de Cross-docking (plataformas de carga y descarga), buscando que la mercancía no se almacene, sino que se genera un flujo continuo de mercancía en el cual se reexpide en menos de 24 horas.
+          h3 Distribución #[em cross-docking]
+          p.mt-4.mb-0 En este proceso se reemplazan los almacenes por las plataformas de cross-docking (plataformas de carga y descarga), buscando que la mercancía no se almacene, sino que se genera un flujo continuo de mercancía en el cual se reexpide en menos de 24 horas.
     .row.m-0(data-aos="zoom-in-up")
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#E8E8E8;")
@@ -104,16 +104,17 @@
     .col-xl-10.m-auto
       div(style="border-top:1px #3BC192 solid;")
       .cont_2_1.mt-2.pt-3(data-aos="flip-up")
-        p.fw-bold #[i.fas.fa-quote-left(style="color:#3BC192;font-size:25px;")] Para Mora (2014):
-        p La tecnología hace que el transporte genere importantes cambios en relación con los procesos de la empresa, pues una de sus ventajas se encamina a reducir notablemente los tiempos de respuesta en la entrega y la ejecución del mismo, haciendo que se mejore también el servicio ofrecido al cliente en todo momento. 
-        p.mt-4 Por eso, los sistemas de información orientados al transporte poseen diferentes maneras en las que se pueden utilizar con el fin de proporcionar información en tiempo real de los atributos de la mercancía que está en camino.
-        .text-end.mt-4
-          i.fas.fa-quote-right(style="color:#3BC192;font-size:25px;")
+        p.mb-0 #[i.fas.fa-quote-left(style="color:#3BC192;font-size:25px;")] La tecnología hace que el transporte genere importantes cambios en relación con los procesos de la empresa, pues una de sus ventajas se encamina a reducir notablemente los tiempos de respuesta en la entrega y la ejecución del mismo, haciendo que se mejore también el servicio ofrecido al cliente en todo momento. 
+        .text-end.mt-2
+          p.fw-bold Para Mora (2014) #[i.fas.fa-quote-right(style="color:#3BC192;font-size:25px;")]
+    
+    p.mt-4 Por eso, los sistemas de información orientados al transporte poseen diferentes maneras en las que se pueden utilizar con el fin de proporcionar información en tiempo real de los atributos de la mercancía que está en camino.
     
     .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
       h4.mb-0.ps-3 Sistemas de gestión del transporte (TMS)
     
-    p.mt-4(data-aos="zoom-in") Los modelos de distribución son los fundamentos que adopta la organización para que sus productos lleguen a los diferentes mercados establecidos, estos modelos son variados según las necesidades de las empresas y están en función de su uso como lo puede ver a continuación:
+    p.mt-4(data-aos="zoom-in") Llamado de igual manera como #[em Transportation Management System] (TMS), es un sistema de logística que permite mejorar la gestión en el proceso de transporte, por lo cual da la posibilidad al usuario de simplificar, visualizar y controlar toda la operación, así como el costo de transporte de una manera conjunta o integrada.
+    p.mt-4(data-aos="zoom-in") En este sentido, el TMS con relación con sus funciones, permite:
     
     AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.col-xl-11.m-auto(titulo="Control de fletes a terceros")
@@ -147,28 +148,28 @@
 
     TabsA.color-acento-botones.mt-5
       .tarjeta.color-acento-botones.p-4(titulo="Sistema de gestión de <br> distribución (DMS)" style="background-color:#FFEAE7;")
-        p El sistema de gestión de distribución, señalado también como Distribution Management System (DMS), permite reunir, visualizar, organizar y analizar en tiempo real la información relacionada con la actividad de distribución. Así mismo, permite planificar y ejecutar las operaciones del sistema de distribución en aras de que sean más eficientes, optimizar los flujos de productos y materiales de una manera más óptima. Finalmente, este sistema tiene la facultad de interactuar con otros sistemas de información como CIS, GPS o RFID, en aras de contar con una visión global de las operaciones de distribución. 
+        p El sistema de gestión de distribución, señalado también como #[em Distribution Management System] (DMS), permite reunir, visualizar, organizar y analizar en tiempo real la información relacionada con la actividad de distribución. Así mismo, permite planificar y ejecutar las operaciones del sistema de distribución en aras de que sean más eficientes, optimizar los flujos de productos y materiales de una manera más óptima. Finalmente, este sistema tiene la facultad de interactuar con otros sistemas de información como CIS, GPS o RFID, en aras de contar con una visión global de las operaciones de distribución. 
       .tarjeta.color-acento-botones.p-4(titulo="Sistema de información <br> geográfica (SIG)" style="background-color:#FFEAE7;")
-        p El Geographical Information System (SIG), es una integración constituida de software, hardware y datos geográficos, creada para almacenar, manipular, capturar y desarrollar en todas sus formas posibles la información geográficamente referenciada, con el objeto de dar solución a problemas complejos de gestión geográfica y planificación.  
+        p El #[em Geographical Information System] (SIG), es una integración constituida de software, hardware y datos geográficos, creada para almacenar, manipular, capturar y desarrollar en todas sus formas posibles la información geográficamente referenciada, con el objeto de dar solución a problemas complejos de gestión geográfica y planificación.  
     
     p.mt-5(data-aos="zoom-in") De manera general, se puede decir que las SIG son instrumentos que permiten a los usuarios realizar consultas interactivas, editar mapas, datos, analizar la información especial y presentar resultados de datos de estas operaciones.
     p.mt-4(data-aos="zoom-in") En este sentido, los SIG son funcionales atendiendo los siguientes aspectos: 
 
     AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.col-xl-11.m-auto(titulo="Tráfico")
-        p  Los sistemas de información geográficas pueden ser utilizados para modelar la conducta del tráfico, estableciendo simulaciones de circulación por vías en función de las dimensiones del trazado y las condiciones de tránsito. En este sentido, el poder contar con información de ejes viales permite la generación de análisis de redes: las rutas óptimas. 
+        p  Los sistemas de información geográfica pueden ser utilizados para modelar la conducta del tráfico, estableciendo simulaciones de circulación por vías en función de las dimensiones del trazado y las condiciones de tránsito. En este sentido, el poder contar con información de ejes viales permite la generación de análisis de redes: las rutas óptimas. 
       .row.col-xl-11.m-auto(titulo="Sistemas de navegación para automóviles")
         p Permite que los conductores conozcan su punto de ubicación mediante la tecnología de posicionamiento global (GPS), se puede ver o identificar en un mapa digital la zona o el sector donde se está desplazando y poder calcular rutas eficientes en función de las condiciones del tráfico. 
       .row.col-xl-11.m-auto(titulo="Gestión")
         p Da la posibilidad de identificar la ubicación de los diferentes tipos de vías que son aptas para el transporte a través de ferrocarriles, rutas aéreas, carreteras e itinerarios marítimos, de los lugares de carga y descarga, de la flota de vehículos, puntos de abastecimiento, registrando fundamentos que permiten realizar un análisis especial eficiente. 
       .row.col-xl-11.m-auto(titulo="Impacto de nuevas infraestructuras ")
-        p Los SIG permiten evaluar el impacto de nuevas infraestructuras de transporte (ferrocarriles, aeropuertos, autopistas, puertos marítimos y fluviales etc.). 
+        p Los SIG permiten evaluar el impacto de nuevas infraestructuras de transporte (ferrocarriles, aeropuertos, autopistas, puertos marítimos y fluviales, etc.). 
       .row.col-xl-11.m-auto(titulo="Mantenimiento y conservación de infraestructura")
         p Se infiere una aplicación eficaz para la gestión y planificación vial, de la posibilidad de información, como la señalización, las características geométricas, el estado de conservación, el tipo de pavimento, la intensidad del tráfico, las interacciones viales y los accidentes, entre otros. 
       .row.col-xl-11.m-auto(titulo="Sistema de administración de patios (YMS)")
-        p Conocido también como Yard Management System, es una aplicación que da la posibilidad de administrar y controlar los movimientos de vehículos, inventarios y recursos humanos en el patio de un centro de distribución.
+        p Conocido también como #[em Yard Management System], es una aplicación que da la posibilidad de administrar y controlar los movimientos de vehículos, inventarios y recursos humanos en el patio de un centro de distribución.
         p.mt-3 Este tipo de aplicaciones son muy solicitadas por empresas con activos grandes como vehículos de transporte o por compañías cuyo tráfico necesita ser controlado en el patio, así mismo lo requieren empresas como los puertos de contenedores para tener total control. 
-        p.mt-3 El software implementado inspecciona el movimiento de los vehículos, dando prioridad a las cargas que serán recibidas mediante las instrucciones dadas a los administrativos de patio a través de comunicación inalámbrica. 
+        p.mt-3 El #[em software] implementado inspecciona el movimiento de los vehículos, dando prioridad a las cargas que serán recibidas mediante las instrucciones dadas a los administrativos de patio a través de comunicación inalámbrica. 
         p.mt-3 Este sistema permite: 
         ol.lista-ol
           li 
@@ -179,13 +180,13 @@
             | Optimización de los vehículos disponibles. 
           li 
             span.text-bold 3. 
-            | Ejecutar operaciones de cross-docking, organización del movimiento de vehículos en patio y administración de contenedores.
+            | Ejecutar operaciones de #[em cross-docking], organización del movimiento de vehículos en patio y administración de contenedores.
 
 
     .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
       h4.mb-0.ps-3 Sistemas de localización satelital (GPS)
     
-    p.mt-4(data-aos="zoom-in") Este sistema global de navegación por satélite también se conoce como Sistema de Posicionamiento Global (SPG) o Global Position System (GPS) que permite determinar en el mundo la ubicación o posición de un objeto, un vehículo, un individuo, con una exactitud que puede ser de incluso centímetros, utilizando un GPS diferencial; siendo lo usual es unos metros de precisión. 
+    p.mt-4(data-aos="zoom-in") Este sistema global de navegación por satélite también se conoce como Sistema de Posicionamiento Global (SPG) o #[em Global Position System] (GPS) que permite determinar en el mundo la ubicación o posición de un objeto, un vehículo, un individuo, con una exactitud que puede ser de incluso centímetros, utilizando un GPS diferencial; siendo lo usual es unos metros de precisión. 
     p.mt-4(data-aos="zoom-in") El sistema GPS está compuesto por tres segmentos:
 
     .row.mt-5
@@ -196,7 +197,7 @@
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Segmento de control") Compuesto por cinco estaciones de monitores (MS): una de control (MCS) y tres estaciones terrenas (TS) que se encuentran localizadas en puntos clave o estratégicos para tener un control constante de la ubicación de los satélites del sistema. 
           p(numero="2" titulo="Segmento especial") Hace referencia a los satélites que son un aspecto relevante del sistema, toda vez que emiten de manera constante las señales hacia los receptores GPS, abarcando todo el globo terráqueo.
-          p(numero="3" titulo="Segmento del usuario") está constituido por los receptores que suministran la posición, velocidad, altitud y tiempo exacto al usuario en cualquier parte del mundo, las 24 horas del día.  
+          p(numero="3" titulo="Segmento del usuario") Está constituido por los receptores que suministran la posición, velocidad, altitud y tiempo exacto al usuario en cualquier parte del mundo, las 24 horas del día.  
 
 
     Separador.mt-5
@@ -211,7 +212,7 @@
         i.lista-ul__vineta(style="color:#1A0F91;")
         | ISO 9001
     
-    p.mt-4(data-aos="zoom-in") Esta norma internacional, está orientada a la obtención de la calidad de una empresa u organización a través de la implementación de un Sistema de Gestión de Calidad (SGC). Es un referente desde el 2002 de calidad a nivel mundial. 
+    p.mt-4(data-aos="zoom-in") Esta norma internacional está orientada a la obtención de la calidad de una empresa u organización a través de la implementación de un Sistema de Gestión de Calidad (SGC). Es un referente desde el 2002 de calidad a nivel mundial. 
     
     .col-xl-8.col-lg-10.m-auto.mt-5
       .cajon.color-secundario.p-4(style="background-color:#EFF4FF;" data-aos="flip-up")
@@ -230,7 +231,7 @@
       .cajon.color-secundario.p-4(style="background-color:#EFF4FF;" data-aos="flip-up")
         p.mb-0 En este sentido, la norma es aplicable a cualquier tipo de organización, sin importar su tamaño, en los sectores de fabricación, servicios, transporte o almacenaje y básicamente en cualquiera de sus fases de producción o de la cadena de suministro.
     
-    p.mt-5(data-aos="zoom-in") La norma ISO 28000 de seguridad de la cadena de suministro permite a las empresas lo siguiente.
+    p.mt-5(data-aos="zoom-in") La norma ISO 28000 de seguridad de la cadena de suministro permite a las empresas lo siguiente:
 
     .row.mt-5
       .col-lg-4.col-md-6.mb-4.mb-md-0(style="place-self:center;")

@@ -12,14 +12,14 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Cuando se habla de flujo de mercancías es necesario involucrar toda cadena de producción desde la fabricación del producto hasta la comercialización de este, incluyendo el proceso de entrega. Su importancia se encamina a la correcta ejecución de los procesos, en donde la mercancía llegue al lugar convenido, de acuerdo con los requerimientos del cliente para su consumo o comercialización. La administración correcta de estas actividades es el inicio para establecer una cadena de suministro óptima. 
+        p.mb-0 Cuando se habla de flujo de mercancías es necesario involucrar toda cadena de producción, desde la fabricación del producto hasta la comercialización de este, incluyendo el proceso de entrega. Su importancia se encamina a la correcta ejecución de los procesos, en donde la mercancía llegue al lugar convenido, de acuerdo con los requerimientos del cliente para su consumo o comercialización. La administración correcta de estas actividades es el inicio para establecer una cadena de suministro óptima. 
     
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_3_1 3.1  Procesos Logísticos en el flujo de la mercancía
+      h2#t_3_1 3.1  Procesos logísticos en el flujo de la mercancía
     
-    p(data-aos="zoom-in") El flujo logístico comprende las actividades a las que es sometida la materia prima para desarrollar un producto, iniciando en la fase de fabricación pasando por la comercialización, transporte, almacenaje y finalmente distribución.
+    p(data-aos="zoom-in") El flujo logístico comprende las actividades a las que es sometida la materia prima para desarrollar un producto, iniciando en la fase de fabricación, pasando por la comercialización, transporte, almacenaje y finalmente distribución.
     p.mt-4(data-aos="zoom-in") Para diseñar un correcto flujo logístico se debe realizar un análisis enfocado en la planeación de la demanda. Con esto se programa el proceso de producción, se determina el inventario y se define un plan de transporte hasta el lugar de venta.
     p.mt-4(data-aos="zoom-in") Para obtener un flujo logístico óptimo, con aumento en el rendimiento de la cadena de suministro, se debe gestionar un trabajo coordinado de cada uno de los departamentos, así como de las actividades relacionadas propiamente de la logística (abastecimiento, almacenamiento, organización de pedidos y distribución).
     p.mt-4(data-aos="zoom-in") A continuación, se presentan los tipos de flujos logísticos que definen el trazo de la cadena de suministros y son de dos tipos:
@@ -35,12 +35,12 @@
     p.mt-5(data-aos="zoom-in") Además, las estrategias de gestión de flujos según las necesidades de suministro se pueden clasificar de la siguiente forma:
 
     AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-      .row.col-xl-11.m-auto(titulo="Flujo push")
+      .row.col-xl-11.m-auto(titulo="Flujo <em>push</em>")
         p La planificación de la producción tiene como fundamento la demanda real, es decir, el proceso de producción inicia al momento de confirmar el pedido, de tal manera que no genere existencias permanentes.
-      .row.col-xl-11.m-auto(titulo="Flujo pull")
-        p también llamado método de fabricación de existencias, el cual consiste en producir de conformidad con la proyección real del mercado. Generalmente, es utilizado en mercancías solicitadas por encargo o están sujetas a personalización.
+      .row.col-xl-11.m-auto(titulo="Flujo <em>pull</em>")
+        p Es también llamado método de fabricación de existencias, el cual consiste en producir de conformidad con la proyección real del mercado. Generalmente, es utilizado en mercancías solicitadas por encargo o están sujetas a personalización.
       .row.col-xl-11.m-auto(titulo="Flujo tenso")
-        p Básicamente es el suministro de la materia prima y los productos terminados en el momento que son requeridos, por lo cual recibe el nombre just in time. De tal manera que las existencias almacenadas son reducidas al mínimo y proporciona una idea más cercana a la demanda real, ayudando al abastecimiento expedito de los puntos de venta.
+        p Básicamente, es el suministro de la materia prima y los productos terminados en el momento que son requeridos, por lo cual recibe el nombre #[em just in time]. De tal manera que las existencias almacenadas son reducidas al mínimo y proporciona una idea más cercana a la demanda real, ayudando al abastecimiento expedito de los puntos de venta.
       .row.col-xl-11.m-auto(titulo="Flujo sincrónico")
         p Se refiere al suministro de una significativa variedad de materiales y porciones de productos según se desenvuelve el proceso de producción, con el fin de disminuir los costos de inventarios.
     
@@ -117,7 +117,7 @@
                 img(src="@/assets/curso/tema3/6.svg" style="display:inline;max-width:100px;")
             .bg-white.p-4(style="border:1px #707070 solid;border-radius:0px 0px 20px 20px;position:relative;border-top:0;")
               span.text-white(style="font-size:35px;background-color:#57DBD8;position:absolute;left:-25px;border-radius:10px;padding:0rem 1rem;font-weight:bold;top:10px") 2
-              h4.text-center(style="color:#57DBD8;") Transportar
+              h4.text-center(style="color:#57DBD8;") Fraccionar
               .d-none.d-lg-block
                 figure
                   img(src="@/assets/curso/tema3/7.svg" style="max-width:40px;position:absolute;right:-40px;")
@@ -174,7 +174,7 @@
     .titulo-segundo
       h2#t_3_4 3.4  Plan de recursos de distribución
     
-    p(data-aos="zoom-in") Los modelos de planificación de las necesidades de distribución (DRP) son una metodología utilizada en la gestión de negocios con el fin de planear las órdenes de productos en la cadena de suministro. El DRP habilita al usuario para establecer ciertos parámetros para el control del inventario (como el inventario de seguridad) y calcular el tiempo de fase entre los requerimientos del inventario. (Bravo, Orejuela y Osorio, 2007).
+    p(data-aos="zoom-in") Los modelos de planificación de las necesidades de distribución (DRP) son una metodología utilizada en la gestión de negocios con el fin de planear las órdenes de productos en la cadena de suministro. El DRP habilita al usuario para establecer ciertos parámetros para el control del inventario (como el inventario de seguridad) y calcular el tiempo de fase entre los requerimientos del inventario (Bravo, Orejuela y Osorio, 2007).
     p.mt-4(data-aos="zoom-in") Entre las funciones principales del DRP se encuentran:
 
     ul.lista-ul--separador.mt-4
@@ -198,7 +198,7 @@
       .bloque-texto-a.color-acento-contenido.p-4.p-md-5
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-4.mb-lg-0
-            h5.mb-0 Tal como lo dice Swamidass, (2020) el uso del DRP se determina en:
+            h5.mb-0 Tal como lo dice Swamidass (2020) el uso del DRP se determina en:
           .col-lg-8
             .bloque-texto-a__texto.p-4
               p Elaborar un plan escalonado de reabastecimiento del inventario para todos los niveles de la cadena de suministro. El sistema DRP proporciona información que identifica las fechas de necesidad, las fechas de reposición y las fechas de pedido para las necesidades materiales. Esta información puede ser unificada dentro del sistema de distribución para proporcionar un conjunto de números para ser utilizados por todos. 
@@ -207,14 +207,14 @@
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .h-100.p-4.p-md-5.text-center(style="background-color:#E6FAF9;border-radius:10px;")
-        h5 Lead Time
+        h5 #[em Lead Time]
         p.mt-3 Es el tiempo transcurrido desde que se genera la orden de compra al proveedor de la materia prima hasta la entrega al cliente.
       .h-100.p-4.p-md-5.text-center(style="background-color:#E6FAF9;border-radius:10px;")
         h5 Demanda
         p.mt-3 Es el promedio de unidades solicitadas por unidad de tiempo. Es requerido por cada producto.
       .h-100.p-4.p-md-5.text-center(style="background-color:#E6FAF9;border-radius:10px;")
         h5 Inventario efectivo
-        p.mt-3 Es el inventario actual en el almacén mas la cantidad del producto por arribar, menos la cantidad de producto comprometida y pendiente por entregar a los clientes.
+        p.mt-3 Es el inventario actual en el almacén, más la cantidad del producto por arribar, menos la cantidad de producto comprometida y pendiente por entregar a los clientes.
       .h-100.p-4.p-md-5.text-center(style="background-color:#E6FAF9;border-radius:10px;")
         h5 Inventario de seguridad
         p.mt-3 Es el inventario efectivo de un producto al momento de realizar una orden de pedido al proveedor de parte del almacén y dispuesto a atender las variaciones de la demanda durante el tiempo de tránsito de la orden. El inventario de seguridad, por tanto, permite atender la variabilidad de la demanda mientras la orden de producto llega finalmente a la bodega, tratando de evitar el agotamiento del producto, además de un mal servicio al cliente.

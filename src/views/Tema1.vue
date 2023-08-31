@@ -38,7 +38,7 @@
         p Vigila las existencias de mercancías en las instalaciones de la organización (inventarios cíclicos, inventarios de barrido, preservación de producto), de tal manera un indicador ERI (Exactitud Registro de Inventario), así como los desplazamientos relacionados con los productos (producto no conforme, devoluciones, transferencias, etc.).
       .row.col-xl-11.m-auto(titulo="Despacho")
         p Gestión de la salida de los productos de la fábrica hacia el destino o consumidor final. Lo anterior incluye la emisión de documentos, inspección física y transporte.
-      .row.col-xl-11.m-auto(titulo="Preparación de pedidos (picking/packing)")
+      .row.col-xl-11.m-auto(titulo="Preparación de pedidos (<em>picking</em>/<em>packing</em>)")
         p Corresponde a la recolección de unidades disponibles de acuerdo con su naturaleza, almacenadas y dispuestas a ser transportadas al lugar donde el consumidor las requirió.
       .row.col-xl-11.m-auto(titulo="Producción no terminada")
         p Concierne a aquellos productos que no han finalizado su ciclo de producción en los plazos de tiempo estipulados por la empresa.
@@ -62,7 +62,7 @@
       
       p.mt-4(data-aos="zoom-in") #[strong Nota:] los modos y medios de transporte tienen ventajas y desventajas, según la alternativa seleccionada para el envío del bien, por tal motivo, se hace necesario la identificación de los factores que ofrecen mejores garantías de transporte, teniendo en cuenta el tipo y la cantidad de mercancía involucrada en la negociación.
 
-    p.mt-5(data-aos="zoom-in") Luego de entender los conceptos, la invitación es a ver cada medio como un todo según su finalidad tal como lo muestra la siguiente tabla que lo relaciona con el modo, esta distinción sirve para Colombia y las economías vecinas:
+    p.mt-5(data-aos="zoom-in") Luego de entender los conceptos, la invitación es a ver cada medio como un todo según su finalidad, tal como lo muestra la siguiente tabla que lo relaciona con el modo, esta distinción sirve para Colombia y las economías vecinas:
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 1.
@@ -97,7 +97,7 @@
             td.text-center Avioneta
             td.text-center Helicóptero
           tr
-            td(colspan="4") Es el sistema de transporte más expedito considerando largas distancias, sin embargo, sus costos son elevados. Generalmente opera para el transporte de productos perecederos, químicos y farmacéuticos, electrónicos y telecomunicaciones, animales vivos y productos frágiles. 
+            td(colspan="4") Es el sistema de transporte más expedito considerando largas distancias, sin embargo, sus costos son elevados. Generalmente, opera para el transporte de productos perecederos, químicos y farmacéuticos, electrónicos y telecomunicaciones, animales vivos y productos frágiles. 
           tr
             td.fw-bold.text-center(rowspan="2") Férreo
             td.fw-bold.text-center(colspan="4") Férreo
@@ -112,7 +112,7 @@
             td.fw-bold.text-center.p-4(rowspan="2") Multimodal
             td.fw-bold.p-4(colspan="4" rowspan="2") Multimodal
     
-    p.mt-5(data-aos="zoom-in") El elemento diferenciador, y en ocasiones decisivo para la elección de un transporte, se basa en la determinación de algunos aspectos que pueden establecer la comparación de alternativas para estructurar el transporte a utilizar, como se presenta en la siguiente tabla.
+    p.mt-5(data-aos="zoom-in") El elemento diferenciador, y en ocasiones decisivo para la elección de un transporte, se basa en la determinación de algunos aspectos que pueden establecer la comparación de alternativas para estructurar el transporte a utilizar, como se presenta en la siguiente tabla:
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 2.
@@ -220,7 +220,7 @@
     .titulo-segundo
       h2#t_1_4 1.4 Analizar el plan de ruta
     
-    p(data-aos="zoom-in") De acuerdo con CAF - Banco de Desarrollo de América Latina (2015), “Latinoamérica presenta tendencia preponderante hacia el uso de la carretera como vía principal en la distribución logística”, y es por ello, que el análisis y diseño de rutas de transporte de carga representa una prioridad para las empresas y permite planificar estrategias de distribución previendo posibles obstáculos que dificulten la entrega de mercancía asignadas a una ruta de última milla. 
+    p(data-aos="zoom-in") De acuerdo con CAF - Banco de Desarrollo de América Latina (2015), “Latinoamérica presenta tendencia preponderante hacia el uso de la carretera como vía principal en la distribución logística”, y es por ello, que el análisis y diseño de rutas de transporte de carga representa una prioridad para las empresas y permite planificar estrategias de distribución previendo posibles obstáculos que dificulten la entrega de mercancía asignada a una ruta de última milla. 
 
     .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
       h4.mb-0.ps-3 Planificación y diseño de la ruta
@@ -231,6 +231,8 @@
       li.h5(data-aos="zoom-in" style="color:#1A0F91;")
         i.lista-ul__vineta(style="color:#57DBD8;")
         | Identificación de recursos disponibles
+    
+    p.mt-4(data-aos="zoom-in") Para realizar una correcta planificación de la ruta logística y una eficaz entrega de última milla, es necesario determinar con cuáles recursos se cuentan justo en el momento del despacho tal como se muestra en la siguiente tabla.
     
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 4.
@@ -253,7 +255,7 @@
           tr
             td Urgencia de la entrega: disponibilidad de vehículos y conductores.
 
-    p.mt-5(data-aos="zoom-in") *Selección de vehículos para la ruta de transporte: se deben tener en cuenta los recursos necesarios para no generar desgastes en el transporte de los productos. Ante esto, es importante realizar una selección del vehículo escogido para cada entrega, considerando dos aspectos significativos como lo son el tipo de ruta de transporte que se debe recorrer el tipo de producto que se debe entregar. 
+    p.mt-5(data-aos="zoom-in") *Selección de vehículos para la ruta de transporte: se deben tener en cuenta los recursos necesarios para no generar desgastes en el transporte de los productos. Ante esto, es importante realizar una selección del vehículo escogido para cada entrega, considerando dos aspectos significativos como lo son el tipo de ruta de transporte que se debe recorrer, el tipo de producto que se debe entregar. 
 
     ul.lista-ul.mt-5
       li.h5(data-aos="zoom-in" style="color:#1A0F91;")
@@ -270,7 +272,7 @@
             img(src="@/assets/curso/tema1/5.svg" style="display:inline;max-width:300px;")
       .col-lg-8.col-md-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#EFF4FF;")
-          h3 Sistema de Información de Costos eficientes para el Transporte Automotor de Carga SICE-TAC
+          h3 Sistema de Información de Costos Eficientes para el Transporte Automotor de Carga SICE-TAC
           p.mt-4.mb-0 Sistema de información que permite calcular los costos operativos del transporte de conformidad con las características cada viaje: tipo de vehículo, tipo de carga, origen-destino, horas estimadas de espera, cargue y descargue.
     .row.m-0(data-aos="zoom-in-up")
       .col-lg-4.col-md-6.mb-4.mb-md-0.p-md-0
@@ -280,7 +282,7 @@
       .col-lg-8.col-md-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#D8E4FD;")
           h3 VesselFinder 
-          p.mb-0.mt-4 Es un localizador de barcos que muestra en tiempo real, la ubicación de todas las embarcaciones que tienen un dispositivo AIS (Automatic Identification System).
+          p.mb-0.mt-4 Es un localizador de barcos que muestra en tiempo real, la ubicación de todas las embarcaciones que tienen un dispositivo AIS (#[em Automatic Identification System]).
     .row.m-0(data-aos="zoom-in-up")
       .col-lg-4.col-md-6.mb-4.mb-md-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#F6F6F6;")
@@ -305,7 +307,7 @@
         i.lista-ul__vineta(style="color:#57DBD8;")
         | Planeación de la ruta logística
     
-    p.mt-4(data-aos="zoom-in") Con la información clave, se procede a planificar la ruta logística. En este paso se deben tener en cuenta aspectos fundamentales como la selección de las rutas de transporte con criterios de capacidad y niveles de servicio en donde los planes de ruta son generados considerando la trayectoria con menos distancia y menor tiempo recorrido, con el objetivo de minimizar costos operativos, desgaste de equipos de transporte y personal. Además, se deben tener en cuenta las características de la flota en cuanto a capacidad de carga (volumen y peso), tamaño de los vehículos, ya que la configuración de la infraestructura vial de las urbes es muy específica en determinadas zonas (vías con un solo carril y bidireccionales, pendientes altas, condiciones de seguridad, etc.). 
+    p.mt-4(data-aos="zoom-in") Con la información clave, se procede a planificar la ruta logística. En este paso se deben tener en cuenta aspectos fundamentales como la #[strong selección de las rutas de transporte con criterios de capacidad y niveles de servicio], en donde los planes de ruta son generados considerando la trayectoria con menos distancia y menor tiempo recorrido, con el objetivo de minimizar costos operativos, desgaste de equipos de transporte y personal. Además, se deben tener en cuenta las características de la flota en cuanto a capacidad de carga (volumen y peso), tamaño de los vehículos, ya que la configuración de la infraestructura vial de las urbes es muy específica en determinadas zonas (vías con un solo carril y bidireccionales, pendientes altas, condiciones de seguridad, etc.). 
 
     Separador.mt-5
 
