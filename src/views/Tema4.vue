@@ -75,6 +75,24 @@
     ul.lista-ul.mt-5
       li.h5(data-aos="zoom-in" style="color:#1A0F91;")
         i.lista-ul__vineta(style="color:#57DBD8;")
+        | Gestión del tracking
+    
+    p.mt-4(data-aos="zoom-in") El proceso del tracking consiste de tres fases clave que permiten garantizar el rastreo de un producto de inicio a fin.
+
+    ul.lista-ul--separador.mt-4
+      li(data-aos="zoom-in")
+        i.fas.fa-angle-right(style="color:#FE7062;")
+        | #[strong Hacia atrás:] incluye la identificación y comprobación de materias primas e información sobre los proveedores.
+      li(data-aos="zoom-in")
+        i.fas.fa-angle-right(style="color:#FE7062;")
+        | #[strong Interna:] se lleva a cabo dentro de la empresa y está relacionada con la entrada y salida de mercancía.
+      li(data-aos="zoom-in")
+        i.fas.fa-angle-right(style="color:#FE7062;")
+        | #[strong Hacia adelante:] implica el seguimiento y control en sí de la mercancía que se distribuirá en el mercado.
+
+    ul.lista-ul.mt-5
+      li.h5(data-aos="zoom-in" style="color:#1A0F91;")
+        i.lista-ul__vineta(style="color:#57DBD8;")
         | Rastreo de productos
     
     p.mt-4(data-aos="zoom-in") El rastreo inteligente es un proceso que se liga directamente a la tecnología, puesto que verifica en tiempo real la ubicación de las mercancías en las diferentes etapas de la cadena de suministro. Asimismo, facilita la toma de decisiones, el control y la optimización de los procesos logísticos. 
