@@ -11,7 +11,7 @@
     
     .col-lg-10.col-xl-6.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -21,7 +21,7 @@
     .row
       .col-lg-4.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/2.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/2.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-8(style="place-self:center;")
         p(data-aos="zoom-in") Uno de los aspectos más relevantes es seleccionar el nicho adecuado, donde dependiendo de la naturaleza de la empresa, se pueden encontrar los recursos necesarios para cumplir con la propuesta misional, para ello, las empresas deben considerar las amenazas y oportunidades presentes en el mercado. 
         p.mt-4(data-aos="zoom-in") Desde el punto de vista de los clientes, las necesidades presentes en su nicho son la disponibilidad inmediata del producto adquirido, la calidad y el costo por el cual se accede a la mercancía. Los proveedores, por su parte, tienen inconvenientes al momento de entregar sus materias primas en los almacenes de la empresa; generalmente, los encargados de recepcionar las mercancías no cuentan con espacio para el bodegaje y el tiempo del trámite es prolongado mientras se verifica el estado y condición de la entrega.
@@ -62,7 +62,7 @@
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#F6F6F6;")
           figure.text-center
-            img(src="@/assets/curso/tema2/3.svg" style="display:inline;")
+            img(src="@/assets/curso/tema2/3.svg" style="display:inline;" alt="Imagen decorativa")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#EFF4FF;")
           h3 Modelo descentralizado
@@ -72,7 +72,7 @@
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#E8E8E8;")
           figure.text-center
-            img(src="@/assets/curso/tema2/4.svg" style="display:inline;")
+            img(src="@/assets/curso/tema2/4.svg" style="display:inline;" alt="Imagen decorativa")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#D8E4FD;")
           h3 Modelo centralizado
@@ -81,7 +81,7 @@
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#F6F6F6;")
           figure.text-center
-            img(src="@/assets/curso/tema2/5.svg" style="display:inline;")
+            img(src="@/assets/curso/tema2/5.svg" style="display:inline;" alt="Imagen decorativa")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#EFF4FF;")
           h3 Distribución #[em cross-docking]
@@ -90,7 +90,7 @@
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#E8E8E8;")
           figure.text-center
-            img(src="@/assets/curso/tema2/6.svg" style="display:inline;")
+            img(src="@/assets/curso/tema2/6.svg" style="display:inline;" alt="Imagen decorativa")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#D8E4FD;")
           h3 Plataforma de consolidación
@@ -192,7 +192,7 @@
     .row.mt-5
       .col-lg-4.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/7.svg" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/7.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-8(style="place-self:center;") 
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Segmento de control") Compuesto por cinco estaciones de monitores (MS): una de control (MCS) y tres estaciones terrenas (TS) que se encuentran localizadas en puntos clave o estratégicos para tener un control constante de la ubicación de los satélites del sistema. 
@@ -236,7 +236,7 @@
     .row.mt-5
       .col-lg-4.col-md-6.mb-4.mb-md-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/8.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/8.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-8.col-md-6(style="place-self:center;")
         ul.lista-ul--separador
           li(data-aos="zoom-in")

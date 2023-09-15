@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-xl-12.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt" data-aos="zoom-in-up")
+          img(src="@/assets/curso/sintesis.svg", alt="Esquema gráfico que resume lo abordado en el componente formativo, indicando lo relacionado con la coordinación del flujo de mercancías, la cual se compone de: Requerimientos basados en: Necesidades. Sistemas de distribución. TIC. Sistemas de gestión de calidad. Operaciones logísticas que facilitan: Procesos logísticos. Producción. Distribución. Plan de recursos de distribución. Sistemas de información que requieren: Gestión de transporte. Seguimiento a los productos. Trazabilidad en los procesos logísticos. Cumplimiento de los requisitos. Indicadores de gestión." data-aos="zoom-in-up")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

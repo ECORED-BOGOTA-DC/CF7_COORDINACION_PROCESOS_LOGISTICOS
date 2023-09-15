@@ -10,7 +10,7 @@
     .row
       .col-lg-4.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema4/1.svg" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema4/1.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-8(style="place-self:center;")
         .cajon.color-acento-contenido.p-4(style="background-color:#DDF8F7;" data-aos="flip-up")
           p.mb-0 Los sistemas de información logística proporcionan información sobre todo el flujo de las mercancías. Hacen seguimiento en tiempo real del trayecto, de su proceso y estado, preparando a las áreas de compras, producción, almacenamiento, financieros y de contabilidad, sobre el ingreso de los mismos.
@@ -34,7 +34,7 @@
       span Ventajas de la gestión del transporte 
     .col-xl-10.m-auto.mt-4
       figure
-        img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up" alt="Imagen que contiene un esquema de las ventajas de la gestión del transporte, las cuales son: Correcta elección del modo de transporte: elección del sistema de transporte en relación a sus propias características, normativa, burocracia, disponibilidad, seguros, etc. Mejor calidad en el servicio prestado: al seleccionar correctamente un proveedor de transporte, se garantiza la elección de un buen servicio. Ahorro de recursos y costes: permite optimizar los recursos disponibles reduciendo costos finales. Mayor seguridad: permite ofrecer una garantía en relación a la entrega final del producto, y en sus procesos internos como externos. Mejor capacidad de respuesta ante imprevistos: al tener un mayor control sobre los procesos de transporte, se puede responder de forma más efectiva ante posibles problemas o imprevistos durante el proceso. Programación y diseño de rutas: se utiliza a través de software, porque permite llegar a un nivel de precisión óptimo en relación al número de destinos y su localización, los tiempos de cargas y descargas, los tiempos de tránsitos, los tipos de vehículos disponibles, etc. Elección del vehículo adecuado: una ruta será más eficaz si se realiza con vehículo más grande, aprovechando su espacio efectivo de carga y su peso máximo admitido. Mayor productividad: una estrategia de gestión de transporte será más productiva que otra en relación a la obtención de mayores beneficios y la correcta elección de sus procesos")
     
     p.mt-5(data-aos="zoom-in") Gracias a la evolución del transporte y el uso de software específicos, la gestión del transporte se ha vuelto mucho más eficiente en la actualidad, ofreciendo una mejor experiencia tanto para la empresa como para los clientes.
 
@@ -103,7 +103,7 @@
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
-              img(src='@/assets/curso/tema4/3.png')
+              img(src='@/assets/curso/tema4/3.png' alt="Imagen decorativa")
           .crd_hover_txt--body(style="background-color:#445476;padding-top:13px;")
             h5.mb-3.text-white.text-center RFID (#[em.text-white Radio Frequency Identification]) 
             p.mt-4.text-white.mb-0 O identificación por radiofrecuencia, es un sistema que permite identificar, almacenar y transmitir datos a través de dispositivos inteligentes denominados etiquetas, tarjetas o transpondedores RFID. Gracias a estos dispositivos, con el sistema RFID se puede conocer en remoto la información de un producto mediante ondas de radio.  
@@ -111,7 +111,7 @@
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
-              img(src='@/assets/curso/tema4/4.png')
+              img(src='@/assets/curso/tema4/4.png' alt="Imagen decorativa")
           .crd_hover_txt--body(style="background-color:#1A0F91;")
             h5.mb-3.text-white.text-center Internet de las cosas
             p.mt-3.text-white.mb-0 Es una tecnología que conecta los dispositivos físicos a una red de internet, para que sean gestionados o monitoreados por otros dispositivos, sin la necesidad de intervención humana. Con este sistema, la empresa puede hacer un rastreo inteligente sobre la ubicación exacta de cada producto, acceder de forma automatizada a datos históricos de rutas recorridas, las condiciones de los vehículos, el estado de las mercancías, etc. 
@@ -119,7 +119,7 @@
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
-              img(src='@/assets/curso/tema4/5.png')
+              img(src='@/assets/curso/tema4/5.png' alt="Imagen decorativa")
           .crd_hover_txt--body(style="background-color:#445476;")
             h5.mb-3.text-white.text-center #[em.text-white Blockchain]
             p.mt-3.text-white.mb-0 Es una tecnología que conecta los dispositivos físicos a una red de internet, para que sean gestionados o monitoreados por otros dispositivos, sin la necesidad de intervención humana. Con este sistema la empresa puede hacer un rastreo inteligente sobre la ubicación exacta de cada producto, acceder de forma automatizada a datos históricos de rutas recorridas, las condiciones de los vehículos, el estado de las mercancías, etc. 
@@ -127,7 +127,7 @@
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
-              img(src='@/assets/curso/tema4/6.png')
+              img(src='@/assets/curso/tema4/6.png' alt="Imagen decorativa")
           .crd_hover_txt--body(style="background-color:#1A0F91;")
             h5.mb-3.text-white.text-center GPS
             p.mt-3.text-white.mb-0 Sistema de posicionamiento global que permite conocer la ubicación del vehículo en todo momento, monitorizar su rendimiento logístico, supervisar el estado del transporte de las mercancías e, incluso, mantener informados a los clientes sobre la ubicación de sus pedidos en tiempo real.
@@ -144,7 +144,7 @@
       .row
         .col-lg-4.col-md-6.mb-4.mb-md-0(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema4/7.svg" data-aos="zoom-in-right")
+            img(src="@/assets/curso/tema4/7.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
         .col-lg-8.col-md-6(style="place-self:center;")
           ul.lista-ul--separador
             li(data-aos="zoom-in")
@@ -176,13 +176,13 @@
         h5 Figura 2.
         span Proceso de trazabilidad en el flujo de mercancias
       figure.mt-4
-        img(src="@/assets/curso/tema4/8.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema4/8.svg" data-aos="zoom-in-up" alt="Imagen que muestra de manera gráfica 10 ventajas de la gestión del transporte.")
     
     .col-xl-10.m-auto.mt-5
       .row.m-0.p-4(style="background: linear-gradient(280deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);border-radius:10px;" data-aos="flip-up")
         .col-lg-1.col-md-3.mb-4.mb-md-0(style="place-self:center;")
           figure.text-center
-            img(src="@/assets/curso/tema4/9.svg" data-aos="zoom-in-right" style="display:inline;max-width:80px;")
+            img(src="@/assets/curso/tema4/9.svg" data-aos="zoom-in-right" style="display:inline;max-width:80px;" alt="Imagen decorativa")
         .col-lg-9.col-md-6.mb-4.mb-md-0
           h4.text-white(data-aos="zoom-in") Para conocer más acerca de la trazabilidad en los procesos logísticos es necesario revisar el siguiente material.
           p.text-small.text-white(data-aos="zoom-in") Video: Trazabilidad en los procesos logísticos (Ecored, 2021).

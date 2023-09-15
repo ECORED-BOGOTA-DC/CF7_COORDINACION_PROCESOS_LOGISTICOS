@@ -21,7 +21,7 @@
       .col-lg-1
       .col-lg-9
         figure
-          img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
       .col-lg-2
     
     Separador.mt-5
@@ -58,7 +58,7 @@
 
     .col-xl-10.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema1/3.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/3.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
       
       p.mt-4(data-aos="zoom-in") #[strong Nota:] los modos y medios de transporte tienen ventajas y desventajas, según la alternativa seleccionada para el envío del bien, por tal motivo, se hace necesario la identificación de los factores que ofrecen mejores garantías de transporte, teniendo en cuenta el tipo y la cantidad de mercancía involucrada en la negociación.
 
@@ -206,7 +206,7 @@
       .row.m-0.p-4(style="background: linear-gradient(280deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);border-radius:10px;" data-aos="flip-up")
         .col-lg-1.col-md-3.mb-4.mb-md-0(style="place-self:center;")
           figure.text-center
-            img(src="@/assets/curso/tema1/4.svg" data-aos="zoom-in-right" style="display:inline;max-width:80px;")
+            img(src="@/assets/curso/tema1/4.svg" data-aos="zoom-in-right" style="display:inline;max-width:80px;" alt="Imagen decorativa")
         .col-lg-9.col-md-6.mb-4.mb-md-0
           h4.text-white(data-aos="zoom-in") Para dar conformidad a la legislación se debe conocerla, por eso se requiere revisar el siguiente material de conformidad con los estatutos nacionales.
           p.text-small.text-white(data-aos="zoom-in") Base de Datos: Google #[br] Lectura: Decreto 173 de 2001
@@ -269,7 +269,7 @@
       .col-lg-4.col-md-6.mb-4.mb-md-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#F6F6F6;")
           figure.text-center
-            img(src="@/assets/curso/tema1/5.svg" style="display:inline;max-width:300px;")
+            img(src="@/assets/curso/tema1/5.svg" style="display:inline;max-width:300px;" alt="Imagen decorativa")
       .col-lg-8.col-md-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#EFF4FF;")
           h3 Sistema de Información de Costos Eficientes para el Transporte Automotor de Carga SICE-TAC
@@ -278,7 +278,7 @@
       .col-lg-4.col-md-6.mb-4.mb-md-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#E8E8E8;")
           figure.text-center
-            img(src="@/assets/curso/tema1/6.svg" style="display:inline;max-width:150px;")
+            img(src="@/assets/curso/tema1/6.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
       .col-lg-8.col-md-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#D8E4FD;")
           h3 VesselFinder 
@@ -287,7 +287,7 @@
       .col-lg-4.col-md-6.mb-4.mb-md-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#F6F6F6;")
           figure.text-center
-            img(src="@/assets/curso/tema1/7.svg" style="display:inline;max-width:300px;")
+            img(src="@/assets/curso/tema1/7.svg" style="display:inline;max-width:300px;" alt="Imagen decorativa")
       .col-lg-8.col-md-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#EFF4FF;")
           h3 Flightradar24
@@ -296,7 +296,7 @@
       .col-lg-4.col-md-6.mb-4.mb-md-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#E8E8E8;")
           figure.text-center
-            img(src="@/assets/curso/tema1/8.svg" style="display:inline;max-width:200px;")
+            img(src="@/assets/curso/tema1/8.svg" style="display:inline;max-width:200px;" alt="Imagen decorativa")
       .col-lg-8.col-md-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#D8E4FD;")
           h3 Inrix
@@ -338,7 +338,7 @@
             | Dirección General de Transporte Fluvial – Inspecciones fluviales. 
       .col-lg-4(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/9.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema1/9.png" data-aos="zoom-in-left" alt="Imagen decorativa")
 
     .col-lg-11.m-auto.mt-4
       p(data-aos="zoom-in") El Ministerio de Transporte como órgano regulador de nivel central está constituido por el Instituto Nacional de Vías (Invías), la Agencia Nacional de Infraestructura (ANI), la Unidad Administrativa Especial de Aeronáutica Civil (Aerocivil), la Superintendencia de Puertos y Transporte (Supertransporte) y la Agencia Nacional de Seguridad Vial (ANSV). 
@@ -349,13 +349,13 @@
       .col-lg.mb-4.mb-lg-0.pe-lg-0
         .h-100.p-4.p-md-5.text-center(style="background-color:#0F0957;border-radius:15px 0px 0px 15px;")
           figure.text-center
-            img(src="@/assets/curso/tema1/10.svg" data-aos="zoom-in" style="display:inline;max-width:300px;")
+            img(src="@/assets/curso/tema1/10.svg" data-aos="zoom-in" style="display:inline;max-width:300px;" alt="Imagen decorativa")
           h3.mt-5.text-white(data-aos="zoom-in") Unidad Administrativa Especial #[br] de Aeronáutica Civil (Aerocivil)
           p.mt-4.text-white(data-aos="zoom-in") Realiza las funciones propias de autoridad de la aviación civil en Colombia, donde garantiza el desarrollo de la actividad aérea y de la industria aeronáutica colombiana, constituida sobre criterios de seguridad por medio del ejercicio de las facultades asignadas; certificación y licenciamiento, reglamentación aeronáutica, seguimiento y control con propiedades de régimen sancionatorio.
       .col-lg.mb-4.mb-lg-0.ps-lg-0
         .h-100.p-4.p-md-5.text-center(style="background-color:#576B96;border-radius:0px 15px 15px 0px;")
           figure.text-center
-            img(src="@/assets/curso/tema1/11.svg" data-aos="zoom-in" style="display:inline;max-width:300px;")
+            img(src="@/assets/curso/tema1/11.svg" data-aos="zoom-in" style="display:inline;max-width:300px;" alt="Imagen decorativa")
           h3.mt-5.text-white(data-aos="zoom-in") Superintendencia de Puertos y #[br] Transporte (Supertransporte)
           p.mt-4.text-white(data-aos="zoom-in") Es la encargada de inspeccionar, vigilar y controlar la prestación del servicio del transporte marítimo, fluvial, terrestre, férreo, y aéreo en el país, en temas relacionados con la infraestructura y los servicios ofrecidos.
 

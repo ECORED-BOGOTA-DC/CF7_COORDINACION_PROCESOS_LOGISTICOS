@@ -53,7 +53,7 @@
       .row
         .col-lg-6.mb-4.mb-md-0.col-md-6(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema3/2.svg" data-aos="zoom-in-right")
+            img(src="@/assets/curso/tema3/2.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
         .col-lg-6.col-md-6(style="place-self:center;")
           .cont_3_1
             p(data-aos="zoom-in-left") Según Economipedia (2021), la logística de producción, “#[strong trata de que la transformación de los aprovisionamientos (mercancías, materias primas o suministros) pase de una fase a otra de transformación de forma eficiente hasta la consecución del producto final]” en conclusión, este proceso optimiza los recursos que se tienen para transformar las materias primas y su posterior almacenamiento.
@@ -102,43 +102,43 @@
           div(style="position:relative;" data-aos="zoom-in-up")
             .text-center.p-4(style="background-color:#FE7062;border:1px #707070 solid;border-radius:20px 20px 0px 0px;")
               figure.text-center
-                img(src="@/assets/curso/tema3/4.svg" style="display:inline;max-width:100px;")
+                img(src="@/assets/curso/tema3/4.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
             .bg-white.p-4(style="border:1px #707070 solid;border-radius:0px 0px 20px 20px;position:relative;border-top:0;")
               span.text-white(style="font-size:35px;background-color:#FE7062;position:absolute;left:-25px;border-radius:10px;padding:0rem 1rem;font-weight:bold;top:10px") 1
               h4.text-center(style="color:#FE7062;") Transportar
               .d-none.d-md-block
                 figure
-                  img(src="@/assets/curso/tema3/5.svg" style="max-width:40px;position:absolute;right:-40px;")
+                  img(src="@/assets/curso/tema3/5.svg" style="max-width:40px;position:absolute;right:-40px;" alt="Imagen decorativa")
               p.mt-4.mb-0 Proceso indispensable para movilizar las mercancías. Es la actividad primordial en la distribución física del sitio de transformación de la materia prima al lugar de consumo.
         .col-lg-3.mb-4.mb-md-0.p-md-4.col-md-6
           div(style="position:relative;" data-aos="zoom-in-down")
             .text-center.p-4(style="background-color:#57DBD8;border:1px #707070 solid;border-radius:20px 20px 0px 0px;")
               figure.text-center
-                img(src="@/assets/curso/tema3/6.svg" style="display:inline;max-width:100px;")
+                img(src="@/assets/curso/tema3/6.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
             .bg-white.p-4(style="border:1px #707070 solid;border-radius:0px 0px 20px 20px;position:relative;border-top:0;")
               span.text-white(style="font-size:35px;background-color:#57DBD8;position:absolute;left:-25px;border-radius:10px;padding:0rem 1rem;font-weight:bold;top:10px") 2
               h4.text-center(style="color:#57DBD8;") Fraccionar
               .d-none.d-lg-block
                 figure
-                  img(src="@/assets/curso/tema3/7.svg" style="max-width:40px;position:absolute;right:-40px;")
+                  img(src="@/assets/curso/tema3/7.svg" style="max-width:40px;position:absolute;right:-40px;" alt="Imagen decorativa")
               p.mt-4.mb-0 Acción orientada a ubicar las mercancías en las condiciones del mercado.
         .col-lg-3.mb-4.mb-md-0.mt-md-5.p-md-4.col-md-6
           div(style="position:relative;" data-aos="zoom-in-up")
             .text-center.p-4(style="background-color:#91B3FA;border:1px #707070 solid;border-radius:20px 20px 0px 0px;")
               figure.text-center
-                img(src="@/assets/curso/tema3/8.svg" style="display:inline;max-width:100px;")
+                img(src="@/assets/curso/tema3/8.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
             .bg-white.p-4(style="border:1px #707070 solid;border-radius:0px 0px 20px 20px;position:relative;border-top:0;")
               span.text-white(style="font-size:35px;background-color:#91B3FA;position:absolute;left:-25px;border-radius:10px;padding:0rem 1rem;font-weight:bold;top:10px") 3
               h4.text-center(style="color:#91B3FA;") Almacenar
               .d-none.d-md-block
                 figure
-                  img(src="@/assets/curso/tema3/9.svg" style="max-width:40px;position:absolute;right:-40px;")
+                  img(src="@/assets/curso/tema3/9.svg" style="max-width:40px;position:absolute;right:-40px;" alt="Imagen decorativa")
               p.mt-4.mb-0 Pone a disposición productos después de la fabricación hasta el momento de su distribución.
         .col-lg-3.mb-4.mb-md-0.p-md-4.col-md-6
           div(style="position:relative;" data-aos="zoom-in-up")
             .text-center.p-4(style="background-color:#1A0F91;border:1px #707070 solid;border-radius:20px 20px 0px 0px;")
               figure.text-center
-                img(src="@/assets/curso/tema3/10.svg" style="display:inline;max-width:100px;")
+                img(src="@/assets/curso/tema3/10.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
             .bg-white.p-4(style="border:1px #707070 solid;border-radius:0px 0px 20px 20px;position:relative;border-top:0;")
               span.text-white(style="font-size:35px;background-color:#1A0F91;position:absolute;left:-25px;border-radius:10px;padding:0rem 1rem;font-weight:bold;top:10px") 4
               h4.text-center(style="color:#1A0F91;") Informar
