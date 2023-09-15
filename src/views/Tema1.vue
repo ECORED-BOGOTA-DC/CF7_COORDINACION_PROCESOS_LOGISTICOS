@@ -38,7 +38,7 @@
         p Vigila las existencias de mercancías en las instalaciones de la organización (inventarios cíclicos, inventarios de barrido, preservación de producto), de tal manera un indicador ERI (Exactitud Registro de Inventario), así como los desplazamientos relacionados con los productos (producto no conforme, devoluciones, transferencias, etc.).
       .row.col-xl-11.m-auto(titulo="Despacho")
         p Gestión de la salida de los productos de la fábrica hacia el destino o consumidor final. Lo anterior incluye la emisión de documentos, inspección física y transporte.
-      .row.col-xl-11.m-auto(titulo="Preparación de pedidos (<em>picking</em>/<em>packing</em>)")
+      .row.col-xl-11.m-auto(titulo="Preparación de pedidos (<em>picking</em> / <em>packing</em>)")
         p Corresponde a la recolección de unidades disponibles de acuerdo con su naturaleza, almacenadas y dispuestas a ser transportadas al lugar donde el consumidor las requirió.
       .row.col-xl-11.m-auto(titulo="Producción no terminada")
         p Concierne a aquellos productos que no han finalizado su ciclo de producción en los plazos de tiempo estipulados por la empresa.
