@@ -17,9 +17,9 @@
           p.mt-4.mb-0 Los fabricantes y comerciantes monitorean los productos y artículos para saber si llegarán a tiempo y en condiciones adecuadas a sus destinos y poder intervenir si sucede algún incidente.
         p.mt-4(data-aos="zoom-in") Los transportadores se enfocan en el progreso y el estado del medio de transporte y del equipo de transporte que contienen. En caso de un incidente o retraso, los transportadores dan aviso a sus clientes, pero el efecto que esto tendrá en la entrega o la reposición de existencias solo lo pueden comprender los comerciantes y los fabricantes.
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_4_1 4.1 Gestión del transporte
     
     p(data-aos="zoom-in") Este proceso permite tomar decisiones clave en el área logística. Adicionalmente, asegura de forma eficaz los flujos de mercancía hacia y desde los almacenes. Además de realizar estratégicamente una selección adecuada de los recursos de transporte a utilizar, la planeación de la programación de los movimientos y la identificación de los costos logísticos. 
@@ -29,7 +29,7 @@
     
     p.mt-4(data-aos="zoom-in") Un proceso satisfactorio en la gestión del transporte permite aplicar estrategias que mejoren el resultado de la actividad logística, además permite influir en una ventaja competitiva para las empresas, puesto que determina la oferta y demanda en relación con los proveedores, sus precios, la fiabilidad en el transporte de la carga, etc. En la siguiente figura se pueden observar varias de las ventajas principales de la gestión del transporte para una empresa. 
 
-    .titulo-sexto.color-acento-contenido.mt-5
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       h5 Figura 1.
       span Ventajas de la gestión del transporte 
     .col-xl-10.m-auto.mt-4
@@ -38,9 +38,9 @@
     
     p.mt-5(data-aos="zoom-in") Gracias a la evolución del transporte y el uso de software específicos, la gestión del transporte se ha vuelto mucho más eficiente en la actualidad, ofreciendo una mejor experiencia tanto para la empresa como para los clientes.
 
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_4_2 4.2  Seguimiento y rastreo a los productos
     
     p(data-aos="zoom-in") El seguimiento y rastreo de los productos permite monitorear rigurosamente el producto transportado en tiempo real, y realizar un acompañamiento a través de plataformas tecnológicas para verificar el estado actual del producto en cualquier momento. 
@@ -132,9 +132,9 @@
             h5.mb-3.text-white.text-center GPS
             p.mt-3.text-white.mb-0 Sistema de posicionamiento global que permite conocer la ubicación del vehículo en todo momento, monitorizar su rendimiento logístico, supervisar el estado del transporte de las mercancías e, incluso, mantener informados a los clientes sobre la ubicación de sus pedidos en tiempo real.
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_4_3 4.3  Trazabilidad en los procesos logísticos de flujo de mercancías
     
     p(data-aos="zoom-in") Seguir la trayectoria de un producto significa determinar su procedencia, el tratamiento y la distribución que requiere. La meta de un proceso de trazabilidad es mantener el control y registro por medio del historial del producto con el fin de garantizar su calidad al cliente.
@@ -172,7 +172,7 @@
               i.fas.fa-angle-right(style="color:#FE7062;")
               | Retirada de artículos no aptos para su consumo.
     
-      .titulo-sexto.color-acento-contenido.mt-5
+      .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
         h5 Figura 2.
         span Proceso de trazabilidad en el flujo de mercancias
       figure.mt-4
@@ -191,92 +191,86 @@
             span Ir al enlace
             i.fas.fa-link
 
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_4_4 4.4  Cumplimiento de requisitos
     
     p(data-aos="zoom-in") En un ambiente empresarial cada vez más competitivo, las empresas encargadas de realizar la distribución de productos, deben contar con procesos logísticos adecuados y óptimos para dar un excelente servicio. Cuidar el proceso de producción desde el inicio hasta la llegada al cliente es fundamental para mantener las ventas en estado evolutivo y fortalecer la imagen de la compañía frente a tus competidores.
     p.mt-4(data-aos="zoom-in") Se debe contar con un plan logístico en materia de distribución, el cual garantice las entregas en tiempo y forma y dando seguimiento a la cadena de suministro. Es obligación de las empresas poner a disposición del cliente los bienes en el tiempo y lugar preciso.
     p.mt-4(data-aos="zoom-in") Para realizar el cumplimiento de estos procesos se debe realizar un seguimiento estricto a:
 
-    .titulo-sexto.color-acento-contenido.mt-5
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       h5 Tabla 5.
       span Cumplimiento de procesos de distribución
     
     .tabla-a.color-primario.mt-4
       table
+      caption Nota. <span style="font-weight: 400">Adaptada de Kottler y Keller (2016).</span>
         tbody
-          tr(style="background-color:#F6F6F6;")
+          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
             td.fw-bold.text-center.p-4.p-md-5(style="border:0;") Garantizar la oferta
             td.p-4.p-md-5(style="border:0;") Asegurarse de tener la disponibilidad del producto en el almacén. 
-          tr(style="background-color:#fff;")
+          tr(style="background-color:#fff;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Seguimiento a números de serie
             td.p-4(style="border:0;") Es utilizado para tener un panorama claro acerca del lugar exacto en donde se encuentra el producto. Con ello podemos determinar la ubicación del mismo, bien sea en almacén o transporte. 
-          tr(style="background-color:#F6F6F6;")
+          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Logística en la cadena de suministro
             td.p-4(style="border:0;") La logística es un componente dentro de la cadena de suministro. Si bien la logística se dirige a la planificación, ejecución y control de la entrega de productos y a los clientes en el momento que lo requieren, la cadena de suministro es un elemento que abarca más áreas del proceso productivo de las empresas, el cual va desde la obtención de la materia prima, el transporte, la producción y la distribución para su comercialización. 
-          tr(style="background-color:#fff;")
+          tr(style="background-color:#fff;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Reducir el número de manos que tocan el producto
             td.p-4(style="border:0;") Desde su producción, es preciso tener claridad sobre la especificidad del proceso, con el objetivo de evitar realizar movimientos innecesarios entre áreas que generarán un incremento en los tiempos de salida del producto, pero, sobre todo, un incremento en los costos, llevando a aumentar el precio final del bien que estás ofreciendo.
-          tr(style="background-color:#F6F6F6;")
+          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Mejorar la comunicación interna y externa
             td.p-4(style="border:0;") Es de suma importancia que además de cuidar los procesos operativos que involucra la logística, se tenga una comunicación interna entre todas las áreas, involucrando al personal, evitando fallos en los procesos. #[br] En relación con la comunicación externa, la visión clara del mercado, proporciona generar riesgos en los canales de comunicación con proveedores y clientes.
     
-    p.mt-3.text-small #[strong Nota.] Adaptada de Kottler y Keller (2016).
+    
+    separador
 
-    Separador.mt-5
-
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_4_5 4.5  Indicadores de gestión
     
     p(data-aos="zoom-in") La distribución de las mercancías es de vital importancia en el éxito logístico de una organización, para esto se debe tener control de costos y productividad relacionados con la cadena suministro de la empresa, en particular la gestión del transporte, la cual es la actividad que más consume recursos y esfuerzos.
 
-    .titulo-sexto.color-acento-contenido.mt-5
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       h5 Tabla 6.
       span Indicador de transporte logístico
     
     .tabla-a.color-secundario.mt-4
       table
+        caption Nota. <span style="font-weight: 400">Adaptada de Mora (2008).</span>
         thead
-          tr
+          tr(data-aos="fade-right")
             th.text-center.p-4 Indicador
             th.text-center.p-4 Cálculo
             th.text-center.p-4 Objetivo
         tbody
-          tr
+          tr(data-aos="fade-right")
             td.text-center.p-4 Costo de transporte sobre las ventas.
             td.text-center.p-4  Costo de transporte / Valor ventas totales * 100.
             td.text-center.p-4 Controlar el rubro respecto a las ventas generadas en un periodo determinado.
-          tr
+          tr(data-aos="fade-right")
             td.text-center.p-4 Costo operativo por conductor.
             td.text-center.p-4  Costo total de transporte/ Número de conductores.
             td.text-center.p-4 Conocer el costo por de cada conductor dentro del total de gastos.
-          tr
+          tr(data-aos="fade-right")
             td.text-center.p-4 Comparativo de transporte.
             td.text-center.p-4  Costo de transporte propio por unidad / #[br] Costo de contratar transporte por unidad.
             td.text-center.p-4 Medir el costo unitario de transportar una unidad respecto al ofrecido por los transportadores del medio.
-          tr
+          tr(data-aos="fade-right")
             td.text-center.p-4 Entregas a tiempo.
-            td.text-center.p-4  Número de entregas a tiempo / Número total de entregas realizadas ×100.
+            td.text-center.p-4  Número de entregas a tiempo / Número total de entregas realizadas x100.
             td.text-center.p-4 Revela la agilidad del transporte en la última milla en forma de porcentaje.
-          tr
+          tr(data-aos="fade-right")
             td.text-center.p-4 Nivel de utilización de la flota.
             td.text-center.p-4  Capacidad real utilizada/Capacidad total en kg o m#[sup 3].
             td.text-center.p-4 Determina la capacidad de transporte ocupada en relación con su capacidad total en volumen (m#[sup 3]) o peso (kg).
-          tr
+          tr(data-aos="fade-right")
             td.text-center.p-4 Nivel de cumplimiento en despacho.
             td.text-center.p-4  Número de despachos cumplidos a tiempo/ #[br] Número total de despachos requeridos.
             td.text-center.p-4 Controlar la eficacia de los despachos efectuados por el centro de distribución.
     
-    p.mt-3.text-small #[strong Nota.] Adaptada de Mora (2008).
-
-
-
     
-  
-
-
       
 </template>
 

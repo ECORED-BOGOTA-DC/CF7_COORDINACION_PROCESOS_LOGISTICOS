@@ -9,14 +9,14 @@
     
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}" data-aos="fade-right"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Cuando se habla de flujo de mercancías es necesario involucrar toda cadena de producción, desde la fabricación del producto hasta la comercialización de este, incluyendo el proceso de entrega. Su importancia se encamina a la correcta ejecución de los procesos, en donde la mercancía llegue al lugar convenido, de acuerdo con los requerimientos del cliente para su consumo o comercialización. La administración correcta de estas actividades es el inicio para establecer una cadena de suministro óptima. 
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_3_1 3.1  Procesos logísticos en el flujo de la mercancía
     
     p(data-aos="zoom-in") El flujo logístico comprende las actividades a las que es sometida la materia prima para desarrollar un producto, iniciando en la fase de fabricación, pasando por la comercialización, transporte, almacenaje y finalmente distribución.
@@ -24,7 +24,7 @@
     p.mt-4(data-aos="zoom-in") Para obtener un flujo logístico óptimo, con aumento en el rendimiento de la cadena de suministro, se debe gestionar un trabajo coordinado de cada uno de los departamentos, así como de las actividades relacionadas propiamente de la logística (abastecimiento, almacenamiento, organización de pedidos y distribución).
     p.mt-4(data-aos="zoom-in") A continuación, se presentan los tipos de flujos logísticos que definen el trazo de la cadena de suministros y son de dos tipos:
 
-    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris" data-aos="zoom-in")
       .row.col-xl-11.m-auto(titulo="Flujo interno")
         p  Es el flujo más sencillo que existe, también se le conoce como el flujo de producción. Hace referencia al movimiento de materiales y componentes. Estos flujos incluyen actividades de transformación, bodegaje y transporte de materias primas.
       .row.col-xl-11.m-auto(titulo="Flujo externo")
@@ -34,7 +34,7 @@
     
     p.mt-5(data-aos="zoom-in") Además, las estrategias de gestión de flujos según las necesidades de suministro se pueden clasificar de la siguiente forma:
 
-    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris" data-aos="zoom-in")
       .row.col-xl-11.m-auto(titulo="Flujo <em>push</em>")
         p La planificación de la producción tiene como fundamento la demanda real, es decir, el proceso de producción inicia al momento de confirmar el pedido, de tal manera que no genere existencias permanentes.
       .row.col-xl-11.m-auto(titulo="Flujo <em>pull</em>")
@@ -44,9 +44,9 @@
       .row.col-xl-11.m-auto(titulo="Flujo sincrónico")
         p Se refiere al suministro de una significativa variedad de materiales y porciones de productos según se desenvuelve el proceso de producción, con el fin de disminuir los costos de inventarios.
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_3_2 3.2  Producción
     
     .col-xl-8.col-lg-10.m-auto
@@ -87,9 +87,9 @@
         | Transforma manteniendo los estándares exigidos por las normas de calidad.
 
 
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_3_3 3.3  Distribución
     
     p(data-aos="zoom-in") La logística de distribución tiene dentro de sus funciones planificar, implementar y controlar los movimientos físicos de materias primas transformadas desde el lugar de fabricación hasta el consumidor final y mantiene una sincronía con la distribución y el proceso de entrega. 
@@ -169,10 +169,10 @@
         i.fas.fa-angle-right(style="color:#FE7062;")
         | Conservar las existencias requeridas por el mercado.
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
-      h2#t_3_4 3.4  Plan de recursos de distribución
+    .titulo-segundo(data-aos="fade-right")
+      h2#t_3_4 3.4 Plan de recursos de distribución
     
     p(data-aos="zoom-in") Los modelos de planificación de las necesidades de distribución (DRP) son una metodología utilizada en la gestión de negocios con el fin de planear las órdenes de productos en la cadena de suministro. El DRP habilita al usuario para establecer ciertos parámetros para el control del inventario (como el inventario de seguridad) y calcular el tiempo de fase entre los requerimientos del inventario (Bravo, Orejuela y Osorio, 2007).
     p.mt-4(data-aos="zoom-in") Entre las funciones principales del DRP se encuentran:
@@ -197,15 +197,15 @@
     .col-xl-9.col-lg-10.m-auto.mt-5
       .bloque-texto-a.color-acento-contenido.p-4.p-md-5
         .row.m-0.align-items-center.justify-content-between
-          .col-lg-4.mb-4.mb-lg-0
+          .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
             h5.mb-0 Tal como lo dice Swamidass (2020) el uso del DRP se determina en:
-          .col-lg-8
+          .col-lg-8(data-aos="fade-left")
             .bloque-texto-a__texto.p-4
               p Elaborar un plan escalonado de reabastecimiento del inventario para todos los niveles de la cadena de suministro. El sistema DRP proporciona información que identifica las fechas de necesidad, las fechas de reposición y las fechas de pedido para las necesidades materiales. Esta información puede ser unificada dentro del sistema de distribución para proporcionar un conjunto de números para ser utilizados por todos. 
     
     p.mt-5(data-aos="zoom-in") El DRP proporciona las bases para enlazar el sistema de distribución física con el sistema de planificación y control de la fabricación, tal como se observa a continuación: 
 
-    SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mt-5(columnas="col-lg-6 col-xl-4" data-aos="zoom-in")
       .h-100.p-4.p-md-5.text-center(style="background-color:#E6FAF9;border-radius:10px;")
         h5 #[em Lead Time]
         p.mt-3 Es el tiempo transcurrido desde que se genera la orden de compra al proveedor de la materia prima hasta la entrega al cliente.
@@ -227,12 +227,6 @@
       .h-100.p-4.p-md-5.text-center(style="background-color:#E6FAF9;border-radius:10px;")
         h5 Inventario máximo
         p.mt-3 Se refiere a la cantidad máxima de cada producto permitido en la bodega. Resulta de las políticas de la empresa, restricciones del espacio o de análisis matemáticos del departamento de almacenaje.
-    
-    
-    
-  
-
-
       
 </template>
 

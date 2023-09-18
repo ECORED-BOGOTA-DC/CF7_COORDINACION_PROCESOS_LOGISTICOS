@@ -13,9 +13,9 @@
       figure
         img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_1 2.1  Necesidades de clientes, proveedores, importadores y exportadores
     
     .row
@@ -27,9 +27,9 @@
         p.mt-4(data-aos="zoom-in") Desde el punto de vista de los clientes, las necesidades presentes en su nicho son la disponibilidad inmediata del producto adquirido, la calidad y el costo por el cual se accede a la mercancía. Los proveedores, por su parte, tienen inconvenientes al momento de entregar sus materias primas en los almacenes de la empresa; generalmente, los encargados de recepcionar las mercancías no cuentan con espacio para el bodegaje y el tiempo del trámite es prolongado mientras se verifica el estado y condición de la entrega.
     p.mt-4(dataaos="zoom-in") Las necesidades que afrontan los exportadores están asociadas al componente sociodemográfico del lugar de destino, como el desconocimiento de la cultura de negocios, entrar a la actividad exportadora por casualidad sin tener un plan definido de exportación y crecimiento de la compañía que supla los requerimientos del cliente. Los importadores experimentan la necesidad de solucionar barreras como el incremento en el cambio de la divisa, el idioma, tiempos de entrega y trámites aduaneros.
 
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_2 2.2  Sistema de distribución - Funciones
     
     p(data-aos="zoom-in") En el cumplimiento del objetivo de la distribución física es necesario poner en práctica las siguientes funciones y modelos:
@@ -39,7 +39,7 @@
     
     p.mt-4(data-aos="zoom-in") Para Mora, (2014) “las funciones y objetivos del proceso de distribución, se cumplen a través de una serie de actividades cruciales dentro de la cadena de suministro que son controlables”. A continuación, se manifiestan algunas de esas funciones.
 
-    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris" data-aos="zoom-in")
       .row.col-xl-11.m-auto(titulo="Estimación de la demanda")
         p  Como plan de negocios hace referencia a la predicción en el estado comportamental de los consumidores en relación con los productos y servicios a futuro. 
       .row.col-xl-11.m-auto(titulo="Procesamiento de pedidos ")
@@ -53,7 +53,7 @@
       .row.col-xl-11.m-auto(titulo="Gestión de cobros")
         p Es la coordinación de canales con los cuales hay contacto con el cliente, orientados a la recepción de recursos económicos generados por las transacciones mercantiles.
 
-    .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
+    .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius: 0px 30px 0px 30px;" data-aos="zoom-in-up")
       h4.mb-0.ps-3 Modelos de distribución
     
     p.mt-4(data-aos="zoom-in")  Los modelos de distribución son los fundamentos que adopta la organización para que sus productos lleguen a los diferentes mercados establecidos, estos modelos son variados según las necesidades de las empresas y están en función de su uso, como lo puede ver a continuación:
@@ -96,27 +96,27 @@
           h3 Plataforma de consolidación
           p.mb-0.mt-4 El modelo de consolidación de la carga se utiliza para la reducción de los costos en el proceso de transporte de mercancía, como para la agrupación de cargas de diferentes empresas para ser enviados a los proveedores.
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_3 2.3  Tecnologías de la información y la comunicación aplicadas al transporte
     
     .col-xl-10.m-auto
       div(style="border-top:1px #3BC192 solid;")
       .cont_2_1.mt-2.pt-3(data-aos="flip-up")
-        p.mb-0 #[i.fas.fa-quote-left(style="color:#3BC192;font-size:25px;")] La tecnología hace que el transporte genere importantes cambios en relación con los procesos de la empresa, pues una de sus ventajas se encamina a reducir notablemente los tiempos de respuesta en la entrega y la ejecución del mismo, haciendo que se mejore también el servicio ofrecido al cliente en todo momento. 
+        p.mb-0 #[i.fas.fa-quote-left(style="color: #3BC192;font-size:25px;")] La tecnología hace que el transporte genere importantes cambios en relación con los procesos de la empresa, pues una de sus ventajas se encamina a reducir notablemente los tiempos de respuesta en la entrega y la ejecución del mismo, haciendo que se mejore también el servicio ofrecido al cliente en todo momento. 
         .text-end.mt-2
-          p.fw-bold Para Mora (2014) #[i.fas.fa-quote-right(style="color:#3BC192;font-size:25px;")]
+          p.fw-bold Para Mora (2014) #[i.fas.fa-quote-right(style="color: #3BC192;font-size:25px;")]
     
     p.mt-4 Por eso, los sistemas de información orientados al transporte poseen diferentes maneras en las que se pueden utilizar con el fin de proporcionar información en tiempo real de los atributos de la mercancía que está en camino.
     
-    .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
+    .mt-5.p-3(style="max-width:450px;background-color: #57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
       h4.mb-0.ps-3 Sistemas de gestión del transporte (TMS)
     
     p.mt-4(data-aos="zoom-in") Llamado de igual manera como #[em Transportation Management System] (TMS), es un sistema de logística que permite mejorar la gestión en el proceso de transporte, por lo cual da la posibilidad al usuario de simplificar, visualizar y controlar toda la operación, así como el costo de transporte de una manera conjunta o integrada.
     p.mt-4(data-aos="zoom-in") En este sentido, el TMS con relación con sus funciones, permite:
     
-    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris" data-aos="zoom-in")
       .row.col-xl-11.m-auto(titulo="Control de fletes a terceros")
         p Obtener la información de la red de transporte y los transportadores, direccionamiento de las tarifas y tasas, registros de embarque, cálculo de las provisiones de fletes, como de la emisión de prefacturas. 
       .row.col-xl-11.m-auto(titulo="Mantenimiento")
@@ -146,7 +146,7 @@
     
     p.mt-4(data-aos="zoom-in") Los datos son el “oro” de la realidad actual en la sociedad de la información en la que se desempeñan las empresas cada día y todos esos datos bien administrados se convierten en la historia de cada una de las empresas (trazabilidad), es por eso que se deben trabajar esos datos de manera ordenada y es ahí donde adquieren importancia los #[strong sistemas de información que son los encargados de la administración de todos los datos de la empresa] y siempre están en dinamismo, es decir que cada día una empresa trabaja con muchos datos que deben quedar en rastreo por algún modelo, estos modelos son de diferentes tipos para cubrir todas las necesidades de las empresas y a nivel general los sistemas de información más usados son:
 
-    TabsA.color-acento-botones.mt-5
+    TabsA.color-acento-botones.mt-5(data-aos="zoom-in")
       .tarjeta.color-acento-botones.p-4(titulo="Sistema de gestión de <br> distribución (DMS)" style="background-color:#FFEAE7;")
         p El sistema de gestión de distribución, señalado también como #[em Distribution Management System] (DMS), permite reunir, visualizar, organizar y analizar en tiempo real la información relacionada con la actividad de distribución. Así mismo, permite planificar y ejecutar las operaciones del sistema de distribución en aras de que sean más eficientes, optimizar los flujos de productos y materiales de una manera más óptima. Finalmente, este sistema tiene la facultad de interactuar con otros sistemas de información como CIS, GPS o RFID, en aras de contar con una visión global de las operaciones de distribución. 
       .tarjeta.color-acento-botones.p-4(titulo="Sistema de información <br> geográfica (SIG)" style="background-color:#FFEAE7;")
@@ -155,7 +155,7 @@
     p.mt-5(data-aos="zoom-in") De manera general, se puede decir que las SIG son instrumentos que permiten a los usuarios realizar consultas interactivas, editar mapas, datos, analizar la información especial y presentar resultados de datos de estas operaciones.
     p.mt-4(data-aos="zoom-in") En este sentido, los SIG son funcionales atendiendo los siguientes aspectos: 
 
-    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris" data-aos="zoom-in")
       .row.col-xl-11.m-auto(titulo="Tráfico")
         p  Los sistemas de información geográfica pueden ser utilizados para modelar la conducta del tráfico, estableciendo simulaciones de circulación por vías en función de las dimensiones del trazado y las condiciones de tránsito. En este sentido, el poder contar con información de ejes viales permite la generación de análisis de redes: las rutas óptimas. 
       .row.col-xl-11.m-auto(titulo="Sistemas de navegación para automóviles")
@@ -200,9 +200,9 @@
           p(numero="3" titulo="Segmento del usuario") Está constituido por los receptores que suministran la posición, velocidad, altitud y tiempo exacto al usuario en cualquier parte del mundo, las 24 horas del día.  
 
 
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_4 2.4   Sistemas de gestión de calidad
     
     p(data-aos="zoom-in") Atendiendo las normas ISO 2021, las que se encuentran enfocadas en la logística de distribución son: 
@@ -247,7 +247,7 @@
             | Evidenciar que la organización se compromete a alcanzar la satisfacción del cliente. 
           li(data-aos="zoom-in")
             i.fas.fa-angle-right(style="color:#FE7062;")
-            | Facilitar la integración, toda vez que al usar un Sistema de Gestión basado en el método “#[em Plan – Do-Check-Act]”, implementado y aprobado por la norma ISO 14001, las empresas familiarizadas con este enfoque basado en riesgos, podrá implementar uno similar para analizar los peligros o riesgos de seguridad de su cadena de suministro. 
+            | Facilitar la integración, toda vez que al usar un Sistema de Gestión basado en el método “#[em Plan - Do-Check-Act]”, implementado y aprobado por la norma ISO 14001, las empresas familiarizadas con este enfoque basado en riesgos, podrá implementar uno similar para analizar los peligros o riesgos de seguridad de su cadena de suministro. 
           li(data-aos="zoom-in")
             i.fas.fa-angle-right(style="color:#FE7062;")
             | Probar la existencia de un sistema robusto y seguro de gestión de su cadena de suministro con los clientes y las partes interesadas. 
@@ -283,11 +283,6 @@
       .cajon.color-secundario.p-4(style="background-color:#EFF4FF;" data-aos="flip-up")
         p.mb-0 Así las cosas, la implementación y certificación de un Sistema de Gestión de la Seguridad Vial conforme la ISO 39001 da la posibilidad de salvar vidas, acrecentar comportamientos más seguros al momento de conducir, presumiendo un impacto positivo en las empresas u organizaciones que implementan este estándar y de manera general en la sociedad. 
         p.mt-4.mb-0 Las Normas como la ISO 39001 proporciona una ventaja competitiva para las empresas que la ponen en marcha al disminuir los riesgos viales, así como los impactos de la materialización de estos y constituyen una actitud responsable frente al personal, la sociedad y el medioambiente.
-
-
-
-
-
 
 </template>
 

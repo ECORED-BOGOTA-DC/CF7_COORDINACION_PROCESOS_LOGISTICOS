@@ -7,11 +7,11 @@
         span 1
       h1 El flujo de mercancías
     
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5(data-aos="flip-up")
+    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}" data-aos="fade-left"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4(data-aos="fade-right")
         p.mb-0 La cadena de suministro es una herramienta para aumentar la productividad y competitividad de las empresas; y el flujo de mercancías o la administración de almacenes es un proceso vinculado a la cadena de suministro correspondiente a todas las actividades intrínsecas a la naturaleza de los productos.
         br
         br
@@ -24,14 +24,14 @@
           img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
       .col-lg-2
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_1 1.1 Conceptos generales
     
     p(data-aos="zoom-in") Son varios los conceptos que se deben tratar al respecto del flujo de las mercancías, a continuación, se exponen los más representativos:
 
-    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.acordion1.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris" data-aos="zoom-in")
       .row.col-xl-11.m-auto(titulo="Almacenamiento")
         p Proceso en el cual una vez verificada la mercadería se dispone a ubicarla en un espacio físico de acuerdo con sus caracterizas de tamaño, peso, fragilidad, rotación y fecha de expiración.
       .row.col-xl-11.m-auto(titulo="Control de inventario")
@@ -49,9 +49,9 @@
       .row.col-xl-11.m-auto(titulo="Recursos materiales")
         p Hace referencia a los materiales básicos y auxiliares, productos semiacabados, componentes, combustibles, piezas de repuesto, residuos de producción, envases y embalajes. 
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_2 1.2 Modos y medios de transporte
     
     p(data-aos="zoom-in") Dentro de la gestión logística, el transporte es la parte principal, pues que garantiza la distribución y/o entrega de la mercancía de forma segura, puntual y económica, en algunos casos. Actualmente, existe una gran variedad de alternativas de transporte con los cuales las empresas pueden soportar su estructura logística; a continuación, se hace la diferenciación de los dos conceptos trabajados, así como los modos y medios para tener claridad de los conceptos en la coordinación logística:
@@ -64,51 +64,51 @@
 
     p.mt-5(data-aos="zoom-in") Luego de entender los conceptos, la invitación es a ver cada medio como un todo según su finalidad, tal como lo muestra la siguiente tabla que lo relaciona con el modo, esta distinción sirve para Colombia y las economías vecinas:
 
-    .titulo-sexto.color-acento-contenido.mt-5
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       h5 Tabla 1.
       span Modos y medios de transporte 
     
     .tabla-a.color-primario.mt-4
       table
         thead
-          tr
+          tr(data-aos="fade-right")
             th(colspan="5") Modo
         tbody
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center(rowspan="2") Terrestre
             td.fw-bold.text-center Terrestre
             td.text-center Camionetas
             td.text-center Carrotanques
             td.text-center Camabajas
-          tr
+          tr(data-aos="fade-right")
             td(colspan="4") Es el sistema más cercano e inmediato para casi todas las empresas, debido a la capacidad de ofrecer un servicio puerta a puerta. Es el modo más asequible, lo cual facilita la movilización de los productos de manera inmediata.
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center(rowspan="2") Marítimo
             td.fw-bold.text-center Marítimo
             td.text-center Graneleros
             td.text-center Frigoríficos
             td.text-center Ro-Ro
-          tr
+          tr(data-aos="fade-right")
             td(colspan="4") Es el transporte de carga más empleado por su gran capacidad de carga y la de mayor amplitud geográfica en distancias. Es tan flexible que ofrece para cada tipo de carga una clase de barco sin considerar su naturaleza.
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center(rowspan="2") Aéreo
             td.fw-bold.text-center Aéreo
             td.text-center Aviones mixtos
             td.text-center Avioneta
             td.text-center Helicóptero
-          tr
+          tr(data-aos="fade-right")
             td(colspan="4") Es el sistema de transporte más expedito considerando largas distancias, sin embargo, sus costos son elevados. Generalmente, opera para el transporte de productos perecederos, químicos y farmacéuticos, electrónicos y telecomunicaciones, animales vivos y productos frágiles. 
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center(rowspan="2") Férreo
             td.fw-bold.text-center(colspan="4") Férreo
-          tr
+          tr(data-aos="fade-right")
             td(colspan="4") Su principal utilización se basa en su capacidad de transportar grandes volúmenes. Es el complemento ideal del transporte marítimo. #[br] #[br] En Colombia ha desaparecido en gran parte, sin embargo, en algunas regiones constituye el modo de transporte más importante.
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center(rowspan="2") Ductos
             td.fw-bold.text-center(colspan="4") Ductos
-          tr
+          tr(data-aos="fade-right")
             td(colspan="4") Están asociados al transporte de petróleo y gas natural. Se fundamenta en los acuerdos de integración entre los países para ampliar su red de distribución mundial.
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center.p-4(rowspan="2") Multimodal
             td.fw-bold.p-4(colspan="4" rowspan="2") Multimodal
     
@@ -121,35 +121,36 @@
     .tabla-a.color-primario.mt-4
       table
         thead(style="border:0;")
-          tr(style="background-color:#57DBD8;")
+          tr(style="background-color:#57DBD8;" data-aos="fade-right")
             th.text-center(colspan="2") Elementos de seguimiento para el transporte de mercancías
         tbody
-          tr(style="background-color:#F6F6F6;")
+          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
             td.fw-bold.text-center(style="border:0;") Velocidad
             td(style="border:0;") Define la posibilidad de llevar mercancías de un lugar a otro en el menor tiempo posible.
-          tr(style="background-color:#fff;")
+          tr(style="background-color:#fff;" data-aos="fade-right")
             td.fw-bold.text-center(style="border:0;") Consistencia
             td(style="border:0;") Es la capacidad de que los destinos lleguen en las mejores condiciones, de acuerdo con lo programado y contratado.
-          tr(style="background-color:#F6F6F6;")
+          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
             td.fw-bold.text-center(style="border:0;") Control
             td(style="border:0;") Verificación de las condiciones óptimas del transporte utilizado, y el seguimiento al mismo.
-          tr(style="background-color:#fff;")
+          tr(style="background-color:#fff;" data-aos="fade-right")
             td.fw-bold.text-center(style="border:0;") Capacidad de carga
             td(style="border:0;") Determina la correcta elección en capacidad de peso del vehículo, para el traslado de la totalidad de la mercancía.
-          tr(style="background-color:#F6F6F6;")
+          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
             td.fw-bold.text-center(style="border:0;") Seguridad
             td(style="border:0;") Realizar seguimiento al transporte y garantizar que las mercancías lleguen en óptimas condiciones.
     
     p.mt-5(data-aos="zoom-in") El transporte de carga tiene una importancia notable desde todo punto de vista. Por ello, es imperativo analizar todas las variables (cuantitativas y cualitativas) en relación con la correcta elección para la logística de distribución (tabla 3).
 
-    .titulo-sexto.color-acento-contenido.mt-5
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       h5 Tabla 3.
       span Principales características de los medios de transporte 
     
     .tabla-a.color-acento-botones.mt-4
       table
+        caption Nota. <span style="font-weight: 400">Elaborada con base en Castellanos (2015).</span>
         thead
-          tr
+          tr(data-aos="fade-right")
             th.text-center Modo
             th.text-center Rapidez
             th.text-center Capacidad
@@ -157,35 +158,35 @@
             th.text-center Costo
             th.text-center Tipo de carga
         tbody
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center.p-4 Aéreo
             td.text-center.p-4 Muy alta 
             td.text-center.p-4 Baja
             td.text-center.p-4 Muy alta
             td.text-center.p-4 Alto
             td.text-center.p-4 Alto valor y perecederas
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center.p-4 Terrestre
             td.text-center.p-4 Alta
             td.text-center.p-4 Baja
             td.text-center.p-4 Media
             td.text-center.p-4 Bajo
             td.text-center.p-4 Todas
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center.p-4 Férreo
             td.text-center.p-4 Media
             td.text-center.p-4 Alta
             td.text-center.p-4 Alta
             td.text-center.p-4 Medio
             td.text-center.p-4 Graneles y sólidos
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center.p-4 Marítimo
             td.text-center.p-4 Baja
             td.text-center.p-4 Muy alta
             td.text-center.p-4 Alta
             td.text-center.p-4 Bajo
             td.text-center.p-4 Contenedores y granel
-          tr
+          tr(data-aos="fade-right")
             td.fw-bold.text-center.p-4 Multimodal
             td.text-center.p-4 Alta
             td.text-center.p-4 Media
@@ -193,11 +194,9 @@
             td.text-center.p-4 Medio
             td.text-center.p-4 Todas
 
-    p.mt-4(data-aos="zoom-in") #[strong Nota.] Elaborada con base en Castellanos (2015).
+    separador
 
-    Separador.mt-5
-
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_3 1.3 Legislación aplicada al transporte
     
     p(data-aos="zoom-in") El Decreto 173 de 2001 reglamenta la actividad del transporte de carga terrestre, por el cual, se establecen normas para la habilitación de empresas de transporte público terrestre automotor de carga y su prestación del servicio con características idóneas de eficiencia, seguridad, economía y oportunidad. Cumpliendo con los principios rectores del transporte, como la libre competencia y el de la iniciativa privada, con dependencia de las restricciones formuladas por las leyes colombianas y acuerdos internacionales.
@@ -215,9 +214,9 @@
             span Ir al enlace
             i.fas.fa-link
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_4 1.4 Analizar el plan de ruta
     
     p(data-aos="zoom-in") De acuerdo con CAF - Banco de Desarrollo de América Latina (2015), “Latinoamérica presenta tendencia preponderante hacia el uso de la carretera como vía principal en la distribución logística”, y es por ello, que el análisis y diseño de rutas de transporte de carga representa una prioridad para las empresas y permite planificar estrategias de distribución previendo posibles obstáculos que dificulten la entrega de mercancía asignada a una ruta de última milla. 
@@ -241,18 +240,18 @@
     .tabla-a.color-primario.mt-4
       table
         thead
-          tr
+          tr(data-aos="fade-right")
             th.text-center Recursos necesarios
             th.text-center Recursos disponibles
             th.text-center Objetivo
         tbody
-          tr
+          tr(data-aos="fade-right")
             td Características de la mercancía: tamaños, pesos, cadena de frío, fragilidad, tipos de envases, entre otros.
             td(rowspan="3") *Selección del vehículo #[br] Volumen de almacenamiento y peso, sin afectar su rendimiento.
             td(rowspan="3") Verificar que los recursos disponibles van acorde a los recursos necesarios para satisfacer la ruta logística terrestre.
-          tr
+          tr(data-aos="fade-right")
             td Cantidad de unidades disponibles: nivel de inventario disponible.
-          tr
+          tr(data-aos="fade-right")
             td Urgencia de la entrega: disponibilidad de vehículos y conductores.
 
     p.mt-5(data-aos="zoom-in") *Selección de vehículos para la ruta de transporte: se deben tener en cuenta los recursos necesarios para no generar desgastes en el transporte de los productos. Ante esto, es importante realizar una selección del vehículo escogido para cada entrega, considerando dos aspectos significativos como lo son el tipo de ruta de transporte que se debe recorrer, el tipo de producto que se debe entregar. 
@@ -309,9 +308,9 @@
     
     p.mt-4(data-aos="zoom-in") Con la información clave, se procede a planificar la ruta logística. En este paso se deben tener en cuenta aspectos fundamentales como la #[strong selección de las rutas de transporte con criterios de capacidad y niveles de servicio], en donde los planes de ruta son generados considerando la trayectoria con menos distancia y menor tiempo recorrido, con el objetivo de minimizar costos operativos, desgaste de equipos de transporte y personal. Además, se deben tener en cuenta las características de la flota en cuanto a capacidad de carga (volumen y peso), tamaño de los vehículos, ya que la configuración de la infraestructura vial de las urbes es muy específica en determinadas zonas (vías con un solo carril y bidireccionales, pendientes altas, condiciones de seguridad, etc.). 
 
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_1_5 1.5 Entidades que regulan el transporte en Colombia
     
     p(data-aos="zoom-in") El organismo gubernamental regulador del transporte en Colombia es el Ministerio de Transporte, de conformidad con el Decreto 087 de 2011, donde se modifica la estructura del Ministerio y se determinan las funciones de sus dependencias. Además, es el ente de Gobierno encargado de formular y adoptar las políticas, planes, programas, proyectos y regulación económica del transporte, el tránsito y la infraestructura, en los modos carretero, marítimo, fluvial, férreo, fluvial y aéreo del país.
@@ -321,24 +320,24 @@
     .row.mt-5
       .col-lg-8.mb-4.mb-lg-0
         ul.lista-ul--separador
-          li 
+          li(data-aos="fade-right")
             i.fas.fa-angle-right(style="color:#FE7062;")
             | Policía de carreteras.
-          li 
+          li(data-aos="fade-right")
             i.fas.fa-angle-right(style="color:#FE7062;")
             | Policía fluvial.
-          li 
+          li(data-aos="fade-right")
             i.fas.fa-angle-right(style="color:#FE7062;")
             | Unidad Administrativa Especial de Aeronáutica Civil - Policía Aeroportuaria.
-          li 
+          li(data-aos="fade-right")
             i.fas.fa-angle-right(style="color:#FE7062;")
             | Dirección General Marítima -DIMAR– Ministerio de Defensa Nacional.
-          li 
+          li(data-aos="fade-right")
             i.fas.fa-angle-right(style="color:#FE7062;")
             | Dirección General de Transporte Fluvial – Inspecciones fluviales. 
       .col-lg-4(style="place-self:center;")
-        figure
-          img(src="@/assets/curso/tema1/9.png" data-aos="zoom-in-left" alt="Imagen decorativa")
+        figure(data-aos="fade-left")
+          img(src="@/assets/curso/tema1/9.png" alt="Imagen decorativa")
 
     .col-lg-11.m-auto.mt-4
       p(data-aos="zoom-in") El Ministerio de Transporte como órgano regulador de nivel central está constituido por el Instituto Nacional de Vías (Invías), la Agencia Nacional de Infraestructura (ANI), la Unidad Administrativa Especial de Aeronáutica Civil (Aerocivil), la Superintendencia de Puertos y Transporte (Supertransporte) y la Agencia Nacional de Seguridad Vial (ANSV). 
@@ -358,17 +357,6 @@
             img(src="@/assets/curso/tema1/11.svg" data-aos="zoom-in" style="display:inline;max-width:300px;" alt="Imagen decorativa")
           h3.mt-5.text-white(data-aos="zoom-in") Superintendencia de Puertos y #[br] Transporte (Supertransporte)
           p.mt-4.text-white(data-aos="zoom-in") Es la encargada de inspeccionar, vigilar y controlar la prestación del servicio del transporte marítimo, fluvial, terrestre, férreo, y aéreo en el país, en temas relacionados con la infraestructura y los servicios ofrecidos.
-
-
-
-      
-
-
-
-        
-    
-  
-
 
       
 </template>
