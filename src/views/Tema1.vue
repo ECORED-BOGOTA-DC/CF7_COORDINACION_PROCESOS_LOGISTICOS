@@ -222,10 +222,7 @@
     
     p.mt-4(data-aos="zoom-in") Para realizar una correcta planificación de una ruta de distribución, se deberán tener en cuenta los siguientes aspectos: 
 
-    ul.lista--color.mt-5
-      li.h4(data-aos="fade-right" style="color:#1A0F91;")
-        i.fas.fa-globe.fa-spin(style="color:#57DBD8;")
-        | Identificación de recursos disponibles
+    .h4.TB.mt-5 <i class="fas fa-globe fa-spin" style="color:#57DBD8; padding-left: 5px"></i> Identificación de recursos disponibles
     
     p.mt-4(data-aos="zoom-in") Para realizar una correcta planificación de la ruta logística y una eficaz entrega de última milla, es necesario determinar con cuáles recursos se cuentan justo en el momento del despacho tal como se muestra en la siguiente tabla.
     
@@ -252,10 +249,7 @@
 
     p.mt-5(data-aos="zoom-in") *Selección de vehículos para la ruta de transporte: se deben tener en cuenta los recursos necesarios para no generar desgastes en el transporte de los productos. Ante esto, es importante realizar una selección del vehículo escogido para cada entrega, considerando dos aspectos significativos como lo son el tipo de ruta de transporte que se debe recorrer, el tipo de producto que se debe entregar. 
 
-    ul.lista--color.mt-5
-      li.h4(data-aos="fade-right" style="color:#1A0F91;")
-        i.fas.fa-globe.fa-spin(style="color:#57DBD8;")
-        | Fijación de puntos de entrega
+    .h4.TB.mt-5 <i class="fas fa-globe fa-spin" style="color:#57DBD8; padding-left: 5px"></i> Fijación de puntos de entrega
     
     p.mt-4(data-aos="zoom-in") Una vez se hayan identificado y coordinado los recursos necesarios y disponibles, se identifica la ruta de entrega, es decir, la ubicación de los clientes. 
     p.mt-4(data-aos="zoom-in") Para la realización de este proceso existen diversas plataformas en línea:
@@ -297,10 +291,7 @@
           h3 Inrix
           p.mb-0.mt-4 Proporciona datos y análisis basados en la ubicación, como tráfico y estacionamiento, a fabricantes de automóviles, ciudades y autoridades viales de todo el mundo, y en aplicaciones de navegación paso a paso como Google Waze.
     
-    ul.lista--color.mt-5
-      li.h4(data-aos="fade-right" style="color:#1A0F91;")
-        i.fas.fa-globe.fa-spin(style="color:#57DBD8;")
-        | Planeación de la ruta logística
+          .h4.TB.mt-5 <i class="fas fa-globe fa-spin" style="color:#57DBD8; padding-left: 5px"></i> Planeación de la ruta logística
     
     p.mt-4(data-aos="zoom-in") Con la información clave, se procede a planificar la ruta logística. En este paso se deben tener en cuenta aspectos fundamentales como la #[strong selección de las rutas de transporte con criterios de capacidad y niveles de servicio], en donde los planes de ruta son generados considerando la trayectoria con menos distancia y menor tiempo recorrido, con el objetivo de minimizar costos operativos, desgaste de equipos de transporte y personal. Además, se deben tener en cuenta las características de la flota en cuanto a capacidad de carga (volumen y peso), tamaño de los vehículos, ya que la configuración de la infraestructura vial de las urbes es muy específica en determinadas zonas (vías con un solo carril y bidireccionales, pendientes altas, condiciones de seguridad, etc.). 
 

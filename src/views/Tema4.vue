@@ -70,10 +70,7 @@
     p.mt-4(data-aos="zoom-in") Su significado es seguimiento. El #[em tracking] permite identificar los cuellos de botella y las oportunidades de mejora para tomar decisiones y diseñar nuevas estrategias, además de ser una herramienta de soporte indispensable para trabajar su nivel de competitividad.
     p.mt-4(data-aos="zoom-in") Este sistema permite hacer un seguimiento en línea, verificando el estado real de sus pedidos, actualizando en cada momento en el que el pedido haya variado su estado en el proceso logístico. La información del #[em tracking] está disponible gracias a los sistemas de seguimiento y control. 
 
-    ul.lista--color.mt-5
-      li.h4(data-aos="fade-right" style="color:#1A0F91;")
-        i.fas.fa-globe.fa-spin(style="color:#57DBD8;")
-        p.mb-0 Gestión del #[em tracking]
+    .h4.TB.mt-5 <i class="fas fa-globe fa-spin" style="color:#57DBD8; padding-left: 5px"></i> Gestión del #[em tracking]
     
     p.mt-4(data-aos="zoom-in") El proceso del #[em tracking consiste de tres fases clave que permiten garantizar el rastreo de un producto de inicio a fin.]
 
@@ -88,10 +85,7 @@
         i.fas.fa-angle-right(style="color:#FE7062;")
         | #[strong Hacia adelante:] implica el seguimiento y control en sí de la mercancía que se distribuirá en el mercado.
 
-    ul.lista--color.mt-5
-      li.h4(data-aos="fade-right" style="color:#1A0F91;")
-        i.fas.fa-globe.fa-spin(style="color:#57DBD8;")
-        | Rastreo de productos
+    .h4.TB.mt-5 <i class="fas fa-globe fa-spin" style="color:#57DBD8; padding-left: 5px"></i> Rastreo de productos
     
     p.mt-4(data-aos="zoom-in") El rastreo inteligente es un proceso que se liga directamente a la tecnología, puesto que verifica en tiempo real la ubicación de las mercancías en las diferentes etapas de la cadena de suministro. Asimismo, facilita la toma de decisiones, el control y la optimización de los procesos logísticos. 
     p.mt-4(data-aos="zoom-in") Para llevar a cabo un rastreo inteligente de productos se destacan:
