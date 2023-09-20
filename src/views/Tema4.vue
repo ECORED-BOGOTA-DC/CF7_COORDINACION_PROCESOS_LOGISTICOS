@@ -47,22 +47,22 @@
     ul.lista-ul--separador.mt-4
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Números de referencia:] enumera y ordena los productos para tener facilidad de traza, cada producto tiene un indicador único.
+        p.mb-0 #[strong Números de referencia:] enumera y ordena los productos para tener facilidad de traza, cada producto tiene un indicador único.
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Fecha de entrega estimada:] cada producto desde el momento de su recibo debe tener una fecha estimada de entrega que se le comparte al cliente para apoyar su rastreo.
+        p.mb-0 #[strong Fecha de entrega estimada:] cada producto desde el momento de su recibo debe tener una fecha estimada de entrega que se le comparte al cliente para apoyar su rastreo.
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Eficiencia en los procesos:] analiza y ejecuta acciones en tiempo real, para mejorar su logística de distribución.
+        p.mb-0 #[strong Eficiencia en los procesos:] analiza y ejecuta acciones en tiempo real, para mejorar su logística de distribución.
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Tomar acciones sobre los paquetes que ha enviado:] permite reprogramar entrega, indicar los horarios y fechas de entregas).
+        p.mb-0 #[strong Tomar acciones sobre los paquetes que ha enviado:] permite reprogramar entrega, indicar los horarios y fechas de entregas).
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Foco en el cliente final:] notifica a los clientes, vía email o SMS, sobre el estado de sus entregas. 
+        p.mb-0 #[strong Foco en el cliente final:] notifica a los clientes, vía email o SMS, sobre el estado de sus entregas. 
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Seguimiento de entregas:] gestiona en tiempo real el estado de sus hojas de ruta y su entrega.
+        p.mb-0 #[strong Seguimiento de entregas:] gestiona en tiempo real el estado de sus hojas de ruta y su entrega.
     
     .mt-5.p-3(style="max-width:450px;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-up")
       h4.mb-0.ps-3 #[em Tracking]
@@ -77,13 +77,13 @@
     ul.lista-ul--separador.mt-4
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Hacia atrás:] incluye la identificación y comprobación de materias primas e información sobre los proveedores.
+        p.mb-0 #[strong Hacia atrás:] incluye la identificación y comprobación de materias primas e información sobre los proveedores.
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Interna:] se lleva a cabo dentro de la empresa y está relacionada con la entrada y salida de mercancía.
+        p.mb-0 #[strong Interna:] se lleva a cabo dentro de la empresa y está relacionada con la entrada y salida de mercancía.
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        | #[strong Hacia adelante:] implica el seguimiento y control en sí de la mercancía que se distribuirá en el mercado.
+        p.mb-0 #[strong Hacia adelante:] implica el seguimiento y control en sí de la mercancía que se distribuirá en el mercado.
 
     .h4.TB.mt-5 <i class="fas fa-globe fa-spin" style="color:#57DBD8; padding-left: 5px"></i> Rastreo de productos
     

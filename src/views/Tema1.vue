@@ -343,7 +343,6 @@
             img(src="@/assets/curso/tema1/11.svg" data-aos="zoom-in" style="display:inline;max-width:300px;" alt="Imagen decorativa")
           h3.mt-5.text-white(data-aos="zoom-in") Superintendencia de Puertos y #[br] Transporte (Supertransporte)
           p.mt-4.text-white(data-aos="zoom-in") Es la encargada de inspeccionar, vigilar y controlar la prestación del servicio del transporte marítimo, fluvial, terrestre, férreo, y aéreo en el país, en temas relacionados con la infraestructura y los servicios ofrecidos.
-
       
 </template>
 

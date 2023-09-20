@@ -243,7 +243,7 @@
             | Evidenciar que la organización se compromete a alcanzar la satisfacción del cliente. 
           li(data-aos="zoom-in")
             i.fas.fa-angle-right(style="color:#FE7062;")
-            | Facilitar la integración, toda vez que al usar un Sistema de Gestión basado en el método “#[em Plan - Do-Check-Act]”, implementado y aprobado por la norma ISO 14001, las empresas familiarizadas con este enfoque basado en riesgos, podrá implementar uno similar para analizar los peligros o riesgos de seguridad de su cadena de suministro. 
+            p.mb-0 Facilitar la integración, toda vez que al usar un Sistema de Gestión basado en el método “#[em Plan - Do-Check-Act]”, implementado y aprobado por la norma ISO 14001, las empresas familiarizadas con este enfoque basado en riesgos, podrá implementar uno similar para analizar los peligros o riesgos de seguridad de su cadena de suministro. 
           li(data-aos="zoom-in")
             i.fas.fa-angle-right(style="color:#FE7062;")
             | Probar la existencia de un sistema robusto y seguro de gestión de su cadena de suministro con los clientes y las partes interesadas. 
