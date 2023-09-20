@@ -314,7 +314,7 @@ export default {
       autores: [
         {
           nombre: 'Gloria Lida Alzate Suarez',
-          cargo: 'Adecuación instruccional - 2023',
+          cargo: 'Adecuación instruccional',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -322,13 +322,13 @@ export default {
           nombre: 'Rafael Rodríguez Cuéllar',
           cargo: 'Instructor',
           centro:
-            'Regional Huila – Centro de la industria, la empresa y los servicios',
+            'Regional Huila - Centro de la industria, la empresa y los servicios',
         },
         {
           nombre: 'Fabio Salazar',
           cargo: 'Experto técnico',
           centro:
-            'Regional Huila – Centro de la industria, la empresa y los servicios',
+            'Regional Huila - Centro de la industria, la empresa y los servicios',
         },
         {
           nombre: 'Luis Fernando Botero Mendoza',
@@ -360,13 +360,13 @@ export default {
       autores: [
         {
           nombre: 'Adriana Marcela Suarez Eljure',
-          cargo: 'Diseño web-2023',
+          cargo: 'Diseño web',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollo Fullstack-2023',
+          cargo: 'Desarrollo Fullstack',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

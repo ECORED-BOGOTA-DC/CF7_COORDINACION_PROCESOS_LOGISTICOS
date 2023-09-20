@@ -11,7 +11,7 @@
     
     .col-lg-10.col-xl-6.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
+        img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up" alt="A.	Transporte interno: se realiza dentro de la propia empresa.<br>B.	Transporte externo: hace referencia a cuando el producto sale de la empresa al punto establecido por el consumidor final.")
     
     separador
 

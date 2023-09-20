@@ -75,9 +75,9 @@
     ul.lista-ul.mt-5
       li.h5(data-aos="zoom-in" style="color:#1A0F91;")
         i.lista-ul__vineta(style="color:#57DBD8;")
-        | Gestión del tracking
+        p.mb-0 Gestión del #[em tracking]
     
-    p.mt-4(data-aos="zoom-in") El proceso del tracking consiste de tres fases clave que permiten garantizar el rastreo de un producto de inicio a fin.
+    p.mt-4(data-aos="zoom-in") El proceso del #[em tracking consiste de tres fases clave que permiten garantizar el rastreo de un producto de inicio a fin.]
 
     ul.lista-ul--separador.mt-4
       li(data-aos="zoom-in")
@@ -206,11 +206,11 @@
     
     .tabla-a.color-primario.mt-4
       table
-      caption Nota. <span style="font-weight: 400">Adaptada de Kottler y Keller (2016).</span>
+        caption Nota. <span style="font-weight: 400">Adaptada de Kottler y Keller (2016).</span>
         tbody
           tr(style="background-color:#F6F6F6;" data-aos="fade-right")
-            td.fw-bold.text-center.p-4.p-md-5(style="border:0;") Garantizar la oferta
-            td.p-4.p-md-5(style="border:0;") Asegurarse de tener la disponibilidad del producto en el almacén. 
+            td.fw-bold.text-center.p-4.p-md-5(style="border:0; width: 25%;") Garantizar la oferta
+            td.p-4.p-md-5(style="border:0; width: 75%;") Asegurarse de tener la disponibilidad del producto en el almacén. 
           tr(style="background-color:#fff;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Seguimiento a números de serie
             td.p-4(style="border:0;") Es utilizado para tener un panorama claro acerca del lugar exacto en donde se encuentra el producto. Con ello podemos determinar la ubicación del mismo, bien sea en almacén o transporte. 
@@ -224,9 +224,7 @@
             td.fw-bold.text-center.p-4(style="border:0;") Mejorar la comunicación interna y externa
             td.p-4(style="border:0;") Es de suma importancia que además de cuidar los procesos operativos que involucra la logística, se tenga una comunicación interna entre todas las áreas, involucrando al personal, evitando fallos en los procesos. #[br] En relación con la comunicación externa, la visión clara del mercado, proporciona generar riesgos en los canales de comunicación con proveedores y clientes.
     
-    
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_4_5 4.5  Indicadores de gestión
     
