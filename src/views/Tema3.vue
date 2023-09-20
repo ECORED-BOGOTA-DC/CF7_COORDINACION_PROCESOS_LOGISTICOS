@@ -15,7 +15,6 @@
         p.mb-0 Cuando se habla de flujo de mercancías es necesario involucrar toda cadena de producción, desde la fabricación del producto hasta la comercialización de este, incluyendo el proceso de entrega. Su importancia se encamina a la correcta ejecución de los procesos, en donde la mercancía llegue al lugar convenido, de acuerdo con los requerimientos del cliente para su consumo o comercialización. La administración correcta de estas actividades es el inicio para establecer una cadena de suministro óptima. 
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_3_1 3.1  Procesos logísticos en el flujo de la mercancía
     
@@ -45,7 +44,6 @@
         p Se refiere al suministro de una significativa variedad de materiales y porciones de productos según se desenvuelve el proceso de producción, con el fin de disminuir los costos de inventarios.
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_3_2 3.2  Producción
     
@@ -88,7 +86,6 @@
 
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_3_3 3.3  Distribución
     
@@ -170,7 +167,6 @@
         | Conservar las existencias requeridas por el mercado.
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_3_4 3.4 Plan de recursos de distribución
     

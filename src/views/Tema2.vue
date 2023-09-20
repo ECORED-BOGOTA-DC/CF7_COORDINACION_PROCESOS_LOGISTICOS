@@ -14,7 +14,6 @@
         img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up" alt="A.	Transporte interno: se realiza dentro de la propia empresa.<br>B.	Transporte externo: hace referencia a cuando el producto sale de la empresa al punto establecido por el consumidor final.")
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_1 2.1  Necesidades de clientes, proveedores, importadores y exportadores
     
@@ -28,7 +27,6 @@
     p.mt-4(dataaos="zoom-in") Las necesidades que afrontan los exportadores están asociadas al componente sociodemográfico del lugar de destino, como el desconocimiento de la cultura de negocios, entrar a la actividad exportadora por casualidad sin tener un plan definido de exportación y crecimiento de la compañía que supla los requerimientos del cliente. Los importadores experimentan la necesidad de solucionar barreras como el incremento en el cambio de la divisa, el idioma, tiempos de entrega y trámites aduaneros.
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_2 2.2  Sistema de distribución - Funciones
     
@@ -97,7 +95,6 @@
           p.mb-0.mt-4 El modelo de consolidación de la carga se utiliza para la reducción de los costos en el proceso de transporte de mercancía, como para la agrupación de cargas de diferentes empresas para ser enviados a los proveedores.
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_3 2.3  Tecnologías de la información y la comunicación aplicadas al transporte
     
@@ -201,7 +198,6 @@
 
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_4 2.4   Sistemas de gestión de calidad
     

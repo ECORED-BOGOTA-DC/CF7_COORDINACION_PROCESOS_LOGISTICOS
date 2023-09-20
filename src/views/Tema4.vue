@@ -18,7 +18,6 @@
         p.mt-4(data-aos="zoom-in") Los transportadores se enfocan en el progreso y el estado del medio de transporte y del equipo de transporte que contienen. En caso de un incidente o retraso, los transportadores dan aviso a sus clientes, pero el efecto que esto tendrá en la entrega o la reposición de existencias solo lo pueden comprender los comerciantes y los fabricantes.
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_4_1 4.1 Gestión del transporte
     
@@ -39,7 +38,6 @@
     p.mt-5(data-aos="zoom-in") Gracias a la evolución del transporte y el uso de software específicos, la gestión del transporte se ha vuelto mucho más eficiente en la actualidad, ofreciendo una mejor experiencia tanto para la empresa como para los clientes.
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_4_2 4.2  Seguimiento y rastreo a los productos
     
@@ -72,9 +70,9 @@
     p.mt-4(data-aos="zoom-in") Su significado es seguimiento. El #[em tracking] permite identificar los cuellos de botella y las oportunidades de mejora para tomar decisiones y diseñar nuevas estrategias, además de ser una herramienta de soporte indispensable para trabajar su nivel de competitividad.
     p.mt-4(data-aos="zoom-in") Este sistema permite hacer un seguimiento en línea, verificando el estado real de sus pedidos, actualizando en cada momento en el que el pedido haya variado su estado en el proceso logístico. La información del #[em tracking] está disponible gracias a los sistemas de seguimiento y control. 
 
-    ul.lista-ul.mt-5
-      li.h5(data-aos="zoom-in" style="color:#1A0F91;")
-        i.lista-ul__vineta(style="color:#57DBD8;")
+    ul.lista--color.mt-5
+      li.h4(data-aos="fade-right" style="color:#1A0F91;")
+        i.fas.fa-globe.fa-spin(style="color:#57DBD8;")
         p.mb-0 Gestión del #[em tracking]
     
     p.mt-4(data-aos="zoom-in") El proceso del #[em tracking consiste de tres fases clave que permiten garantizar el rastreo de un producto de inicio a fin.]
@@ -90,9 +88,9 @@
         i.fas.fa-angle-right(style="color:#FE7062;")
         | #[strong Hacia adelante:] implica el seguimiento y control en sí de la mercancía que se distribuirá en el mercado.
 
-    ul.lista-ul.mt-5
-      li.h5(data-aos="zoom-in" style="color:#1A0F91;")
-        i.lista-ul__vineta(style="color:#57DBD8;")
+    ul.lista--color.mt-5
+      li.h4(data-aos="fade-right" style="color:#1A0F91;")
+        i.fas.fa-globe.fa-spin(style="color:#57DBD8;")
         | Rastreo de productos
     
     p.mt-4(data-aos="zoom-in") El rastreo inteligente es un proceso que se liga directamente a la tecnología, puesto que verifica en tiempo real la ubicación de las mercancías en las diferentes etapas de la cadena de suministro. Asimismo, facilita la toma de decisiones, el control y la optimización de los procesos logísticos. 
@@ -133,7 +131,6 @@
             p.mt-3.text-white.mb-0 Sistema de posicionamiento global que permite conocer la ubicación del vehículo en todo momento, monitorizar su rendimiento logístico, supervisar el estado del transporte de las mercancías e, incluso, mantener informados a los clientes sobre la ubicación de sus pedidos en tiempo real.
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_4_3 4.3  Trazabilidad en los procesos logísticos de flujo de mercancías
     
@@ -192,7 +189,6 @@
             i.fas.fa-link
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_4_4 4.4  Cumplimiento de requisitos
     
