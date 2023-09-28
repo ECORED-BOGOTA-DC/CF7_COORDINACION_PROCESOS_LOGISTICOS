@@ -60,7 +60,7 @@
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#F6F6F6;")
           figure.text-center
-            img(src="@/assets/curso/tema2/3.svg" style="display:inline;" alt="Imagen decorativa")
+            img(src="@/assets/curso/tema2/3.svg" style="display:inline;" alt="Imagen que relaciona un ejemplo de modelo descentralizado, el cual está indicado así:<br>Fábrica - Almacén - tienen unas designaciones que son:<br>Clientes de las zonas A, B y C")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#EFF4FF;")
           h3 Modelo descentralizado
@@ -70,7 +70,7 @@
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#E8E8E8;")
           figure.text-center
-            img(src="@/assets/curso/tema2/4.svg" style="display:inline;" alt="Imagen decorativa")
+            img(src="@/assets/curso/tema2/4.svg" style="display:inline;" alt="Imagen que relaciona un ejemplo de modelo centralizado, el cual está indicado así:<br>Fábrica - planificación de rutas - tienen unas designaciones que son:<br>Clientes de las zonas A, B y C")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#D8E4FD;")
           h3 Modelo centralizado
@@ -79,7 +79,7 @@
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#F6F6F6;")
           figure.text-center
-            img(src="@/assets/curso/tema2/5.svg" style="display:inline;" alt="Imagen decorativa")
+            img(src="@/assets/curso/tema2/5.svg" style="display:inline;" alt="Imagen que relaciona un ejemplo de distribución cross-docking, el cual está indicado así:<br>Fábrica - Almacén - tiene unas plataformas cross-docking:<br>Clientes de las zonas A, B y C")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#EFF4FF;")
           h3 Distribución #[em cross-docking]
@@ -88,7 +88,7 @@
       .col-lg-6.mb-4.mb-lg-0.p-md-0
         .h-100.p-4.p-md-5.d-flex.align-content-center.align-items-center(style="background-color:#E8E8E8;")
           figure.text-center
-            img(src="@/assets/curso/tema2/6.svg" style="display:inline;" alt="Imagen decorativa")
+            img(src="@/assets/curso/tema2/6.svg" style="display:inline;" alt="Imagen que relaciona un ejemplo de plataforma de consolidación, el cual está indicado así:<br>Fábrica - Almacén - tiene un centro de distribución:<br>Clientes de las zonas A, B y C")
       .col-lg-6.p-md-0
         .h-100.p-4.p-md-5(style="background-color:#D8E4FD;")
           h3 Plataforma de consolidación

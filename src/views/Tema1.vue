@@ -21,7 +21,7 @@
       .col-lg-1
       .col-lg-9
         figure
-          img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
+          img(src="@/assets/curso/tema1/2.svg" data-aos="zoom-in-up" alt="Imagen que relaciona los aspectos que se tienen en cuenta al momento de minimizar y maximizar los procesos en el flujo de mercancías.")
       .col-lg-2
     
     separador
@@ -56,7 +56,7 @@
 
     .col-xl-10.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema1/3.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
+        img(src="@/assets/curso/tema1/3.svg" data-aos="zoom-in-up" alt="Imagen que relaciona los conceptos de modos y medios de transporte, aspectos presentes en la coordinación logística.")
       
       p.mt-4(data-aos="zoom-in") #[strong Nota:] los modos y medios de transporte tienen ventajas y desventajas, según la alternativa seleccionada para el envío del bien, por tal motivo, se hace necesario la identificación de los factores que ofrecen mejores garantías de transporte, teniendo en cuenta el tipo y la cantidad de mercancía involucrada en la negociación.
 
@@ -107,8 +107,10 @@
           tr(data-aos="fade-right")
             td(colspan="4") Están asociados al transporte de petróleo y gas natural. Se fundamenta en los acuerdos de integración entre los países para ampliar su red de distribución mundial.
           tr(data-aos="fade-right")
-            td.fw-bold.text-center.p-4(rowspan="2") Multimodal
-            td.fw-bold.p-4(colspan="4" rowspan="2") Multimodal
+            td.fw-bold.text-center(rowspan="2") Multimodal
+            td.fw-bold.text-center(colspan="4") Multimodal
+          tr(data-aos="fade-right")
+            td(colspan="4") Es la utilización de dos o más modos de transporte, con el objetivo que la carga llegue a su lugar de destino. Su utilización se basa en la necesidad y la economía a escala.
     
     p.mt-5(data-aos="zoom-in") El elemento diferenciador, y en ocasiones decisivo para la elección de un transporte, se basa en la determinación de algunos aspectos que pueden establecer la comparación de alternativas para estructurar el transporte a utilizar, como se presenta en la siguiente tabla:
 
@@ -291,7 +293,7 @@
           h3 Inrix
           p.mb-0.mt-4 Proporciona datos y análisis basados en la ubicación, como tráfico y estacionamiento, a fabricantes de automóviles, ciudades y autoridades viales de todo el mundo, y en aplicaciones de navegación paso a paso como Google Waze.
     
-          .h4.TB.mt-5 <i class="fas fa-globe fa-spin" style="color:#57DBD8; padding-left: 5px"></i> Planeación de la ruta logística
+    .h4.TB.mt-5 <i class="fas fa-globe fa-spin" style="color:#57DBD8; padding-left: 5px"></i> Planeación de la ruta logística
     
     p.mt-4(data-aos="zoom-in") Con la información clave, se procede a planificar la ruta logística. En este paso se deben tener en cuenta aspectos fundamentales como la #[strong selección de las rutas de transporte con criterios de capacidad y niveles de servicio], en donde los planes de ruta son generados considerando la trayectoria con menos distancia y menor tiempo recorrido, con el objetivo de minimizar costos operativos, desgaste de equipos de transporte y personal. Además, se deben tener en cuenta las características de la flota en cuanto a capacidad de carga (volumen y peso), tamaño de los vehículos, ya que la configuración de la infraestructura vial de las urbes es muy específica en determinadas zonas (vías con un solo carril y bidireccionales, pendientes altas, condiciones de seguridad, etc.). 
 
@@ -326,7 +328,7 @@
           img(src="@/assets/curso/tema1/9.png" alt="Imagen decorativa")
 
     .col-lg-11.m-auto.mt-4
-      p(data-aos="zoom-in") El Ministerio de Transporte como órgano regulador de nivel central está constituido por el Instituto Nacional de Vías (Invías), la Agencia Nacional de Infraestructura (ANI), la Unidad Administrativa Especial de Aeronáutica Civil (Aerocivil), la Superintendencia de Puertos y Transporte (Supertransporte) y la Agencia Nacional de Seguridad Vial (ANSV). 
+      p(data-aos="zoom-in") El Ministerio de Transporte como órgano regulador de nivel central, está constituido por el Instituto Nacional de Vías (Invías), la Agencia Nacional de Infraestructura (ANI), la Unidad Administrativa Especial de Aeronáutica Civil (Aerocivil), la Superintendencia de Puertos y Transporte (Supertransporte) y la Agencia Nacional de Seguridad Vial (ANSV). 
 
     p.mt-5(data-aos="zoom-in") En el siguiente recurso se identifican con claridad las dos instancias que regulan a nivel general el transporte en Colombia, si se requiere más información de cada una de ellas se puede ir al sitio web en donde reposa toda la información:
 

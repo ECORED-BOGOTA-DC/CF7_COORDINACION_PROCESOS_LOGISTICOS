@@ -52,7 +52,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'El flujo de mercancias',
+        titulo: 'El flujo de mercancías',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -263,7 +263,7 @@ export default {
     },
     {
       referencia:
-        'CAF - Banco de Desarrollo de América Latina. (2015). <em>Perfil logístico de América Latina</em>. CAF.',
+        'CAF - Banco de Desarrollo de América Latina. (2015). <em>Perfil logístico de América Latina</em>.',
       link:
         'https://scioteca.caf.com/bitstream/handle/123456789/1022/CAF_PERLOG%20LATAM.pdf',
     },

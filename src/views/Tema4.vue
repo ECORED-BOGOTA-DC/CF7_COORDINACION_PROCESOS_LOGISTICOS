@@ -56,7 +56,7 @@
         p.mb-0 #[strong Eficiencia en los procesos:] analiza y ejecuta acciones en tiempo real, para mejorar su logística de distribución.
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
-        p.mb-0 #[strong Tomar acciones sobre los paquetes que ha enviado:] permite reprogramar entrega, indicar los horarios y fechas de entregas).
+        p.mb-0 #[strong Tomar acciones sobre los paquetes que ha enviado:] permite reprogramar entrega, indicar los horarios y fechas de entregas.
       li(data-aos="zoom-in")
         i.fas.fa-angle-right(style="color:#FE7062;")
         p.mb-0 #[strong Foco en el cliente final:] notifica a los clientes, vía email o SMS, sobre el estado de sus entregas. 
@@ -158,14 +158,14 @@
               | Disminución de costes operativos y productivos.
             li(data-aos="zoom-in")
               i.fas.fa-angle-right(style="color:#FE7062;")
-              | Organización de stock almacenado.
+              p.mb-0 Organización de <i>stock</i> almacenado.
             li(data-aos="zoom-in")
               i.fas.fa-angle-right(style="color:#FE7062;")
               | Retirada de artículos no aptos para su consumo.
     
       .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
         h5 Figura 2.
-        span Proceso de trazabilidad en el flujo de mercancias
+        span Proceso de trazabilidad en el flujo de mercancías
       figure.mt-4
         img(src="@/assets/curso/tema4/8.svg" data-aos="zoom-in-up" alt="Imagen que muestra de manera gráfica 10 ventajas de la gestión del transporte.")
     
@@ -179,8 +179,8 @@
           p.text-small.text-white(data-aos="zoom-in") Video: Trazabilidad en los procesos logísticos (Ecored, 2021).
         .col-lg-2.col-md-3.text-center(style="place-self:center;")
           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PUOOkuzzSnM " target="_blank" style="box-shadow:0px 0px 4px 1px rgba(0,0,0,.4);")
-            span Ir al enlace
-            i.fas.fa-link
+            span Ir al video
+            i.far.fa-play-circle
 
     separador
     .titulo-segundo(data-aos="fade-right")
@@ -197,20 +197,24 @@
     .tabla-a.color-primario.mt-4
       table
         caption Nota. <span style="font-weight: 400">Adaptada de Kottler y Keller (2016).</span>
+        thead
+          tr(style="background-color:#E8E8E8;" data-aos="fade-right")
+            th.text-center Proceso
+            th.text-center Descripción
         tbody
-          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
+          tr(style="background-color:#fff;" data-aos="fade-right")
             td.fw-bold.text-center.p-4.p-md-5(style="border:0; width: 25%;") Garantizar la oferta
             td.p-4.p-md-5(style="border:0; width: 75%;") Asegurarse de tener la disponibilidad del producto en el almacén. 
-          tr(style="background-color:#fff;" data-aos="fade-right")
+          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Seguimiento a números de serie
             td.p-4(style="border:0;") Es utilizado para tener un panorama claro acerca del lugar exacto en donde se encuentra el producto. Con ello podemos determinar la ubicación del mismo, bien sea en almacén o transporte. 
-          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
+          tr(style="background-color:#fff;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Logística en la cadena de suministro
             td.p-4(style="border:0;") La logística es un componente dentro de la cadena de suministro. Si bien la logística se dirige a la planificación, ejecución y control de la entrega de productos y a los clientes en el momento que lo requieren, la cadena de suministro es un elemento que abarca más áreas del proceso productivo de las empresas, el cual va desde la obtención de la materia prima, el transporte, la producción y la distribución para su comercialización. 
-          tr(style="background-color:#fff;" data-aos="fade-right")
+          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Reducir el número de manos que tocan el producto
             td.p-4(style="border:0;") Desde su producción, es preciso tener claridad sobre la especificidad del proceso, con el objetivo de evitar realizar movimientos innecesarios entre áreas que generarán un incremento en los tiempos de salida del producto, pero, sobre todo, un incremento en los costos, llevando a aumentar el precio final del bien que estás ofreciendo.
-          tr(style="background-color:#F6F6F6;" data-aos="fade-right")
+          tr(style="background-color:#fff;" data-aos="fade-right")
             td.fw-bold.text-center.p-4(style="border:0;") Mejorar la comunicación interna y externa
             td.p-4(style="border:0;") Es de suma importancia que además de cuidar los procesos operativos que involucra la logística, se tenga una comunicación interna entre todas las áreas, involucrando al personal, evitando fallos en los procesos. #[br] En relación con la comunicación externa, la visión clara del mercado, proporciona generar riesgos en los canales de comunicación con proveedores y clientes.
     
